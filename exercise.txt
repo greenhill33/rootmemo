@@ -1,0 +1,46 @@
+artistic gymnastic
+badminton
+baseball
+basketball
+billiards
+bowling
+cavalry
+cricket
+cycling
+discus
+dodge ball
+equestrianism
+fencing
+football
+golf
+gymnastics
+high jump
+hockey
+ice hockey
+javelin
+jogging
+lacrosse
+marathon
+netball
+pellet
+ping-pong
+racing
+racquetball
+referee
+rhythmic gymnastic
+roller skating
+rowing
+rugby
+skiing
+snowboard
+soccer
+softball
+surfing
+swimming
+table tennis
+tennis
+volleyball
+water polo
+weightlifting
+wrestling
+Squash=n.壁球
