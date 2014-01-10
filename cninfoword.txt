@@ -1,0 +1,871 @@
+accuracy
+addiction
+address
+application
+array
+attribution
+availability
+backbone
+base
+bottom
+branch
+bridge
+brightness
+buffer
+bug
+bus
+byte
+cache
+child
+chip
+client
+clock
+cluster
+collision
+command
+complement
+computation
+computer
+constant
+contrast
+cookie
+core
+cracker
+currency
+cylinder
+database
+decimal
+decode
+delay
+desktop
+digital
+directory
+download
+effectiveness
+exponent
+expression
+fetch
+fiber
+file
+folder
+format
+frame
+front
+hacker
+hardware
+head
+hexadecimal
+hub
+hyperlink
+icon
+index
+infrared
+input
+integrity
+Internet
+interpreter
+interrupt
+intrusion
+kernel
+key
+keyboard
+lens
+loop
+mask
+microcomputer
+microphone
+microprocessor
+microwave
+mnemonics
+module
+monitor
+mouse
+multimedia
+network
+output
+packet
+parent
+partition
+pixel
+port
+printer
+privacy
+process
+property
+push
+queue
+radio
+rear
+register
+relevance
+resolution
+robot
+root
+sample
+sampling
+scanner
+scratch
+script
+sector
+selection
+sequence
+server
+shell
+software
+speaker
+stack
+switch
+tail
+text
+top
+track
+transistor
+tree
+upload
+user
+variable
+video
+virus
+weight
+window
+wireless
+word
+worm
+absolute path=n.绝对路径
+access point=n.接取器,(无线)存取点,(无线)分享器
+accessibility=n.可接取性,可存取性,取用权
+active server pages=n.(微软)主动服务器网页,微软 ASP 软件技术
+adder=n.加法器
+address bus=n.地址总线
+addressing=n.寻址
+Advanced Research Project Agency=n.(美国国防部)先进研究计划局
+algorithm=n.算法
+all in one motherboard=n.一机成型主板
+alphanumeric data=n.文数字数据
+American Memory=n.美国记忆(公司)
+American National Standards Institute=n.美国国家标准协会
+American Standard Code for Information Interchange=n.美国信息交换标准码
+analog=n.模拟
+analog signal=n.模拟信号
+analog to digital converter=n.模拟数字转换器
+analog TV=n.模拟电视
+AND=n.及
+AND gate=n.与门
+Android OS=n.Android 操作系统
+antivirus software=n.防病毒软件
+Apache=n.Apache 服务器
+APPLE Ⅱ=n.APPLE Ⅱ计算机
+application layer=n.应用层
+application service provider=n.应用服务供应者
+application software=n.应用软件
+arithmetic and logic unit=n.算术与逻辑单元
+ARPANet=n.ARPANET 网络
+artificial intelligence=n.人工智能
+ASP.NET=n.ASP.NET 网页程序语言
+assembler=n.组合程序,组译器
+assembly language=n.汇编语言
+assignment statement=n.指定叙述
+assisted global position system=n.辅助全球定位系统
+assisted global positioning system=n.辅助全球定位系统
+Assocation for Computing Machinery=n.(美国)计算器协会
+asymmetric digital subscriber loop=n.非对称数字用户回路
+asynchronous transfer mode=n.异步传输模式
+attacker=n.攻击者
+audio track=n.声频磁道,音轨
+authentication=n.鉴别,鉴定,鉴认
+automated teller machine=n.自动柜员机
+auxiliary memory=n.辅助内存
+backtracking=n.回溯(法)
+bandwidth=n.带宽
+barcode=n.条形码
+barcode reader=n.条形码读取器
+barebone=n.准系统
+Basic Input/Output System=n.基本输入输出系统,基本输出入系统
+Big-5 code=n.大五码,Big-5 码
+binary digit=n.(二进)位
+binary number system=n.二进制数系统
+binary search=n.二元搜寻
+bit per second=n.每秒位数
+bitmap=n.位图,位映像
+bitmap image=n.位图,点阵影像
+blocks palette=n.区块调色盘
+Blog=n.部落格,网志,博客
+bluetooth=n.蓝牙
+Blu-ray=n.蓝光
+Blu-ray disc=n.蓝光光盘
+Blu-ray DVD=n.蓝光 DVD
+Boolean=n.布尔,布尔的
+Boot-type Virus=n.开机型病毒
+BotNet=n.殭尸网络
+bottom Up=n.由下而上
+boundary condition=n.边界条件
+broadcast radio=n.广播无线电
+browser=n.浏览器
+brute force=n.蛮力
+buffer overflow=n.缓冲器溢位
+Bulletin Board System=n.电子布告栏系统
+bus width=n.总线宽度
+business to business=n.企业对企业
+business to consumer=n.企业对消费者
+cable modem=n.电缆调制解调器
+cache memory=n.高速缓存
+carpal tunnel syndrome=n.腕隧道症候群
+carrier sense multiple access / collision detection=n.载波侦测多重存取/碰撞侦测
+Cathode Ray Tube=n.阴极射线管
+CD-Recordable=n.可录式光盘
+CD-Rewriteable=n.可覆写光盘
+CD-ROM Drive=n.CD-ROM驱动机
+CD-RW Drive=n.可抹写式CD光驱
+Central Processing Unit=n.中央处理单元
+certification authority=n.认证中心
+Champion Chip=n.冠军芯片
+Character=n.字符,字符
+Charge Coupled Device=n.电荷耦合组件
+Charles Babbage=n.查理巴贝
+Charset=n.字符集
+Chinese Character Code for Information Interchange=n.中文信息交换码
+Chinese character code for information interchange =n.中文信息交换码
+Chinese standard interchange code=n.中文标准交换码
+chipset=n.芯片组
+Ciphertext=n.密文
+circuit switching=n.电路交换,线路交换
+class A IP address=n.A 类 IP 地址
+class B IP address=n.B 类 IP 地址
+class C IP address=n.C 类 IP 地址
+class D IP address=n.D 类 IP 地址
+class E IP address=n.E 类 IP 地址
+client server=n.主从式架构
+client server network=n.主从式网络
+clock cycle=n.频率周期
+clock multiplier factor=n.倍频系数
+clock period=n.频率周期
+clock pulse=n.时钟脉波,计频率波,时钟脉冲
+clock rate=n.时钟频率
+cloud computing=n.云端运算
+cloud service=n.云端服务
+CMY color mode=n.印刷三原色
+coaxial cable=n.同轴电缆
+coding=n.编码
+commercial software=n.商用软件
+communication protocol=n.通讯协议
+compact disc read only memory=n.唯独光盘
+compact disk=n.光盘
+compiler=n.编译程序,编译程序
+complementary metal-oxide semiconductor=n.互补性金属氧化半导体
+complex instruction set computer=n.复杂指令集计算机
+computational complexity=n.计算复杂性
+computational knowledge engine=n.计算式知识引擎
+computer abuse=n.计算机滥用,计算机误用
+computer aided design=n.计算机辅助设计
+computer architecture=n.计算机架构
+computer assisted instruction=n.计算机辅助教学
+computer assistive devices=n.计算机辅具
+computer ethics institute=n.计算机伦理协会
+computer graphics=n.计算机图形,计算器图学
+computer network=n.计算机网络,计算器网络
+computer virus=n.计算机病毒
+computer, communications and consumer electronics=n.3C 产品,资通消费性电子产品
+computer-adide manufacturing=n.计算机辅助制造
+computer-aided design=n.计算机辅助设计
+computer-aided software engineering=n.计算机辅助软件工程
+computer-assisted instruction=n.计算机辅助教学
+comtrol bus=n.控制总线
+confidentiality=n.机密性
+connection hijacking=n.联机劫持
+connection oriented service=n.连接导向服务
+connectionless service=n.非连接式服务
+consumer to business=n.消费者对企业
+consumer to consumer=n.消费者对消费者
+control bus=n.控制总线
+control unit=n.控制单元
+creative commons=n.版权宣告
+cross-site scripting=n.跨网站脚本
+crosstalk=n.串音
+cyan, magenta, yellow, and black=n.青,洋红,黄,黑(印刷)四原色,印刷四原色
+data backup=n.数据备份
+data bus=n.数据总线
+data link layer=n.数据链路层
+data mining=n.资料探勘
+data structure=n.数据结构
+data transfer time=n.数据传输时间
+data type=n.数据型态
+debug=n.除错
+decimal number system=n.十进制数系统
+decoder=n.译码器
+decryption=n.解密
+deep blue=n.深蓝计算机
+definiteness=n.明确性
+denial of service=n.阻断服务
+dennis ritchie=n.里奇(C 语言发明者)
+Department of Defense=n.(美国)国防部
+dictionary attack=n.字典式攻击
+digital archive=n.数位典藏
+digital audio coding=n.音频编码
+digital camera=n.数字相机
+digital certificate=n.数字证书
+digital divide=n.数位落差
+digital home=n.数位家庭
+digital learning=n.数位学习
+digital logic circuit=n.数字逻辑电路
+digital rights management=n.数字著作权管理
+digital signal=n.数字讯号,数字信号
+digital signal processing=n.数字讯号处理,数字信号处理
+digital single-lens reflex=n.单眼数字相机
+digital to analog converter=n.数字模拟转换器
+digital versatile disc=n.多样化数字光盘
+digital watermarking=n.数位水印
+digitize=n.数字化
+direct memory access=n.直接内存访问
+disk access time=n.磁盘访问时间
+disk defrag=n.碎片整理
+disk operating system=n.磁盘操作系统
+display card=n.显示适配器
+distance learning=n.远距教学
+distant learning=n.远距学习
+distributed denial of service=n.分布式拒绝服务
+distributions=n.发行套件
+divergent thinking=n.发散式思考
+divide and conquer=n.分治法,各个击破法,分割击破法
+DNS server=n.DNS 服务器
+domain name=n.域名
+domain name system=n.域名系统
+domain name system server=n.域名服务器
+dot per inch=n.每英寸可打印的点数
+dot pitch=n.点距
+dot-matrix printer=n.点矩阵式打印机
+double-precision floating-point=n.倍精准度浮点数
+dual-core=n.双核心
+dual-core processor=n.双核心处理器
+DVD-ROM=n.只读式DVD光驱
+dynamic host configuration protocol=n.动态主机配置协议
+dynamic random access memory=n.动态随机存取内存
+E-cycle=n.执行周期
+Edgar F. Codd=n.柯德(关系数据库发明者)
+electrically EPROM=n.可电子清除的唯独内存
+electronic commerce=n.电子商务
+electronic discrete variable automatic computer=n.EDVAC 计算机
+Electronic mail=n.电子邮件
+electronic numerical integrator and computer=n.ENIAC 计算机
+electronic toll collection=n.电子收费系统,电子化道路收费系统
+embedded computer=n.嵌入式计算机
+embedded system=n.嵌入式系统
+encoding=n.编码
+encoding system=n.编码系统
+enhanced parallel port=n.增强型并行端口
+environmental protection agency=n.美国环境保护署
+erasable PROM=n.可清除可程序只读存储器
+ethernet=n.以太网络
+European Organisation for Nuclesr Research=n.欧洲核子研究组织
+ExaByte=n.艾字节
+exclusive OR=n.互斥或
+excute=n.执行
+execution cycle=n.执行周期
+expert system=n.专家系统
+extended ASCII code=n.扩充 ASCII 码
+extended binary coded decimal interchange code=n.延伸二进制编码十进交换码
+external bus=n.外部总线
+external clock=n.外部钟讯
+external frequency=n.外频
+external SATA=n.外部序列先进技术附接,外部序列先进技术附件
+extranet=n.商际网络,企业间网络
+factory automation=n.工厂自动化
+fetch cycle=n.撷取周期
+fiber optics=n.光纤
+fiber to the building=n.光纤到大楼
+fiber to the curb=n.光纤到路侧
+fiber to the home=n.光纤到府
+file allocation=n.档案配置
+file management=n.档案管理
+file path=n.档案路径
+file transfer protocol=n.文件传输协定
+file-type virus=n.档案型病毒
+filp-flop=n.正反器
+filter software=n.过滤软件
+finiteness=n.有限性
+firewall=n.防火墙
+firewire=n.火线
+firmware=n.韧体
+first in first out=n.先进先出
+flash disk=n.快闪碟,随身碟
+flash memory=n.闪存
+flash memory card=n.快闪记忆卡
+flash ROM=n.闪存
+flash video=n.Flash 串流影音规格
+Flip-flop=n.正反器
+floating-point number=n.浮点数
+floating-point operation=n.浮点运算
+floating-point unit=n.浮点单元
+floppy disk=n.软式磁盘驱动器
+flow chart=n.流程图
+fool-proof design=n.防呆设计
+formatting=n.格式化
+FORTRAN=n.FORTRAN 语言
+fourth generation language=n.第四代语言
+free software=n.自由软件
+freeware=n.免费软件
+front side bus=n.前侧总线
+gamepad=n.游戏板
+garbage in,  garbage out=n.垃圾进垃圾出
+gateway=n.网关
+general packet radio service=n.通用封包无线电服务
+general-purpose computer=n.通用型计算机
+geographic information system=n.地理信息系统
+gesture recognition control=n.手势辨识控制
+Giga Bits=n.吉位,千兆位
+Giga Hertz=n.吉赫
+gigabit per second =n.每秒千兆位
+GigaBytes=n.吉字节,千兆位组
+global position system=n.全球定位系统
+global positioning system=n.全球定位系统
+global system for mobile communications=n.全球行动通讯系统
+G-mouse=n.窗口导盲鼠系统
+Grace Hopper=n.霍普(COBOL 语言创始者)
+graphical user interface=n.图形用户界面
+graphics interchange format=n.图形交换格式
+greedy method=n.贪心法则
+green IT=n.绿色信息科技
+hacking=n.骇侵
+hard disk=n.硬盘
+hard disk drive=n.硬式磁盘驱动器
+head mounted display=n.头戴显示设备
+header=n.标头
+hertz=n.赫
+hexadecimal number system=n.十六进制数系统,十六进制
+high definition multimedia interface=n.高画质多媒体接口,高分辨率多媒体接口
+high definition versatile disc =n.高画质通用光盘
+high speed downlink packet access=n.高速下载封包存取
+high-level language=n.高级语言
+HiNet=n.HiNet 网络
+Hollerith=n.何乐利,打洞卡
+holographic display=n.全像式显示器
+holographic versatile disc=n.全像通用光盘
+home page=n.首页
+home use applications=n.家用软件
+homepage=n.首页
+horizontal application=n.水平应用
+horizontal thinking=n.水平式(逻辑)思考
+host address=n.主机地址
+host ID=n.主机地址,主机编号,主机 ID
+hot swap=n.热插入
+hot-plugging=n.热插入
+hotspot=n.(无线上网)热点
+Huffman code=n.霍夫曼码
+Huffman's coding=n.霍夫曼编码法
+Huffman's encoding=n.霍夫曼编码法
+hypertext=n.超文件
+HyperText Markup Language=n.超文件标示语言
+HyperText Tranafer Protocol=n.超文件传输协议
+IBM=n.国际商业机器股份有限公司
+I-cycle=n.指令周期
+IEEE 1394=n.IEEE 1394 高效能串联总线
+image vector=n.影像向量
+index allocation=n.索引分配
+index search=n.索引搜寻
+index value=n.索引值
+information appliances=n.信息家电
+information ethics=n.信息伦理
+information systems=n.信息系统
+infrared radiation=n.红外线辐射
+ink-jet printer=n.喷墨打印机
+input unit=n.输入单元,输入设备
+input/output=n.输入/输出,输出入
+instant messaging=n.实时通讯
+Institute of Electrical and Electronic Engineer=n.(美国)电机电子工程师学会
+instruction cycle=n.指令周期
+instruction register=n.指令缓存器
+integer=n.整数
+integrated circuit=n.集成电路
+integrated device electronics=n.IDE 接口,整合设备电子接口
+intellectual property rights=n.知识产权
+intelligent transportation system=n.智能型交通运输系统
+intermediate station=n.中间站
+internal bus=n.内部总线
+internal clock=n.内钟讯
+internal frequency=n.内频
+international organization for standardization=n.国际标准化组织
+international telecommunication union=n.国际电信联盟
+Internet addiction disorder=n.网络成瘾症,嗜网症
+Internet content provider=n.因特网内容提供商
+Internet Corporation for Assigned Names and Numbers=n.因特网指定名称与地址管理机构,ICANN 机构
+Internet crime=n.网络犯罪
+Internet information server=n.因特网信息服务器
+Internet layer=n.网络层
+Internet message access protocol=n.因特网讯息接取协议
+Internet protocol=n.因特网协定
+Internet protocol address=n.因特网协议地址
+Internet protocol version 4=n.因特网协定第 4 版
+Internet protocol version 6=n.因特网协定第 6 版
+Internet rumors=n.网络谣言
+Internet service providers=n.因特网服务提供商
+InterNIC=n.美国因特网信息中心,因特网域名管理中心
+Intranet=n.(企业)内部网络
+intrusion prevention system=n.入侵防御系统
+iOS=n.(苹果)行动设备操作系统
+iuput process output=n.输入,处理,输出
+J. Presper Eckert=n.伊克特(ENIAC 计算机发明者)
+James Gosling=n.高斯林(JAVA 创造者)
+JavaServer Pages=n.Java 服务器网页,JSP 软件技术
+Jimmy Wales=n.韦尔斯(维基创办人)
+job scheduling=n.工件排程
+John McCarthy=n.麦卡锡(人工智能先驱者)
+John von Neumann=n.冯纽曼(电子数字计算器创造者)
+John William Mauchly =n.莫克利(ENIAC 计算机设计者)
+Joint Photographic Experts Group=n.JPEG(图像压缩)标准,联合图像专家群
+Joint Photographic Group=n.JPG(图像压缩)标准,联合图像群
+joystick=n.游戏杆
+Kbps=n.每秒(传输)千位数
+Ken Thompson=n.汤普逊(Unix 发明人)
+keylogger=n.键盘侧录程序
+KiloBytes=n.千字节
+knapsack problem=n.背包问题
+L1/L2/L3 cache memory=n.1 阶 / 2 阶 / 3 阶高速缓存
+Larry Page=n.佩奇(Google 创办人)
+laser printer=n.雷射打印机
+last in, first out=n.后进先出
+lateral thinking=n.横向思维,水平思考
+LCD projector=n.液晶显示投影机
+light emitting diode=n.发光二极管
+link layer=n.链接层
+linked allocation=n.串行配置
+Linux=n.Linux 操作系统
+liquid crystal display=n.液晶显示器
+local area network=n.局域网络
+logic bomb=n.逻辑炸弹
+logic gate=n.逻辑闸
+logical block addressing=n.逻辑区块寻址
+logical error=n.逻辑错误
+logical thinking=n.逻辑思考
+login=n.登入
+long integer=n.长整数
+low-level language=n.低级语言
+lpm=n.每分钟可打印行数
+Mac OS=n.麦金塔操作系统
+machine code=n.机器码
+machine cycle=n.机器周期
+machine language=n.机器语言
+madia center PC=n.媒体中心计算机
+magnetic disk=n.磁盘
+main memory=n.主存储器
+mainframe=n.主机,大型计算机
+malicious code=n.恶意代码
+malware=n.恶意软件
+mantissa=n.(对数的)假数,尾数,定值部,系数
+Mbps=n.每秒兆位
+media access control address=n.媒体访问控制地址
+MegaBytes=n.兆字节
+memory card=n.记忆卡
+memory cell=n.记忆格,储存单元
+memory hierarchy=n.内存阶层
+memory module=n.内存模块
+memory unit=n.记忆单元,内存单位
+message switching=n.讯息交换
+metropolitan area network=n.都会网络,都会局域网络
+microblogging=n.微型部落格,微网志
+microcontroller=n.微控器
+Microsoft=n.微软,微软公司
+millions floating-point per second=n.每秒百万浮点运算指令
+millions instruction per second=n.每秒百万指令
+mobile internet device=n.行动上网装置,行动联网装置
+mobile lan=n.行动局域网络
+mobile learning=n.行动学习
+mobile network=n.行动网络,移动式网络
+modem=n.调制解调器
+Moore's Law=n.摩尔定律
+motherboard=n.主板,母板
+Moving Picture Experts Group=n.MPEG(动态影像压缩)标准,动态影像专家群
+Moving Picture Experts Group 1=n.MPEG(动态影音压缩)标准第 1 版
+Moving Picture Experts Group 2=n.MPEG(动态影音压缩)标准第 2 版
+Moving Picture Experts Group 3=n.MPEG(动态影音压缩)标准第 3 版
+Moving Picture Experts Group 4=n.MPEG(动态影音压缩)标准第 4 版
+MPEG Audio Layer-3=n.MPEG 音讯第 3 层
+MPEG-4 Part 14=n.动态图像第 4 代
+multicast addresses=n.群播地址
+multi-partite virus =n.复合型病毒
+multi-touch=n.多点触控
+nanometer=n.奈米
+nanosecond=n.奈秒
+National Science Foundation=n.美国国家科学基金会
+National Television Systems Committee=n.(美国)国家电视系统委员会,NTSC 电视讯号标准
+natural language=n.自然语言
+nested structure=n.巢状结构,巢套结构
+net ID=n.网络地址
+netbook=n.随身型易网机,轻省笔电
+nettop=n.桌上型易网机
+network address=n.网络地址
+network address translation=n.网络地址转换
+network card=n.网络卡
+network community=n.网络社群
+network ID=n.网络 ID
+Network Information Center=n.网络信息中心
+network interface card=n.网络适配器,网卡
+network layer=n.网络层
+network operating system=n.网络操作系统
+no derivative=n.禁止改作
+node=n.节点
+noncommercial=n.非商业性
+non-repudiation=n.不可否认性
+nonvolatile memory=n.非挥发性内存,非依电性内存,非易失性内存
+NOT=n.非,反
+NOT gate=n.非门
+number system=n.数字系统,记数系统
+numeric date=n.数值资料
+object-oriented educational programming language=n.面向对象教育程序语言
+octal number system=n.八进制数字系统,八进数系统
+office automation=n.办公室自动化
+One Laptop Per Child=n.廉价计算机
+online game=n.在线游戏
+opcode=n.运算码,作业码
+open document format=n.开放文件格式
+open source=n.开放原始码,开放原码
+open source initiative=n.开放原始码促进会
+open system interconnection =n.开放系统互连
+operand=n.操作数
+operating system=n.操作系统
+optical character recognition=n.感光字符辨识,光学字符识别
+optical disk=n.光盘
+optical fiber=n.光纤
+OR=n.或
+OR gate=n.或门
+organic light emitting diode=n.有机发光二极管
+organic photo-conductor drum=n.有机感光鼓
+output Unit=n.输出单元,输出装置
+packet switching=n.分封交换,分组交换
+page rank=n.网页排序
+pages per minute=n.每分钟打印页数
+paging=n.分页
+Palm OS=n.Palm 操作系统
+parallel port=n.并行端口
+parallel processing=n.平行处理
+Pascal=n.帕斯卡尔,PASCAL 语言
+Pascaline=n.Pascaline 计算器
+path name=n.路径名
+PCI Express=n.快速外围组件互连
+peer to peer=n.同级,同侪
+peer-to-peer network=n.同级间网络,同侪间网络
+peripheral component interconnect=n.外围组件互连
+peripheral device=n.外围装置
+persentation layer=n.表示层
+persistence of vision=n.视觉暂留
+personal computer=n.个人计算机
+personal computer interface=n.个人计算机接口
+personal digital assistant=n.个人数字助理
+Personal Home Page=n.PHP 脚本语言,个人网页
+PetaByte=n.拍字节,千兆字节
+phishing=n.网络钓鱼
+PHP Hypertext Preprocessor=n.PHP 超文本前处理器
+physical layer=n.物理层
+pixels per inch=n.每英寸像素
+plaintext=n.明文
+plasma display panel=n.电浆显示器
+platform for Internet content selection=n.因特网内容选择平台
+platter=n.磁盘
+plug and play=n.即插即用
+point of sale=n.销售点,销售点系统
+polling=n.轮询
+polymorphic=n.多形的
+PoP=n.弹出
+port address=n.端口地址
+portable application=n.可携式软件
+Portable Network Graphic=n.PNG(图像压缩)标准,可携网络图像
+post office protocol=n.邮件协定
+prime number=n.质数
+printed circuit=n.印刷电路
+privacy, accuracy, property, accessibility=n."信息四伦理(隐私权,准确性,
+所有权,接取权)"=
+private key=n.私钥
+procedural language=n.程序式语言
+programmable brick=n.可程序化积木
+programmable ROM=n.可程序只读存储器
+programming=n.程序设计
+programming language=n.程序语言
+proxy server=n.代理服务器
+pseudo code=n.伪码
+public domain software=n.公用软件
+public licence=n.公共授权条款
+public switched telephone system=n.公众交换电话系统
+pulse-code modulation=n.脉波码调变
+QR Code=n.行动条形码
+quantization=n.量化
+quantize=n.量化
+quantum bit=n.量子位
+quantum computer=n.量子计算机
+radio frequency identification=n.无线射频辨识系统
+radio waves=n.无线电波
+RAM module=n.内存模块
+random access memory=n.随机存取内存
+Ray Tomlinson=n.汤林森(E-mail 程序发明者)
+read-only memory=n.只读存储器
+Recreational Software Advisory Council for Internet=n.美国休闲软件协会网站分级标准
+reduced instruction set computing=n.精简指令集
+relational model=n.关连式模型
+relative path=n.相对路径
+repeater=n.中继器
+repetition structure=n.重复结构
+repetitive strain injury=n.重复性劳损,劳肌损伤
+research and developmemt=n.研发
+reserved words=n.保留字
+restriction of hazardous substances=n.危害性物质限制指令
+revolutions per minute=n.每分钟旋转数
+RGB color mode=n.光学三原色模式
+rotation time=n.旋转时间
+router=n.路由器
+routing=n.路由
+routing table=n.路由表
+runtime error=n.执行期错误
+sampling rate=n.抽样率
+sampling size=n.取样量
+satellite news gathering=n.实时电视新闻
+scan code=n.扫描码
+screen magnifier=n.屏幕放大器
+script language=n.脚本语言,描述语言
+search engine=n.搜索引擎
+secondary memory=n.辅助内存
+secure sockets layer=n.安全数据传输层
+seek time=n.搜寻时间
+selection structure=n.循序结构,选择结构
+semantic error=n.语义错误
+sensor=n.传感器
+sensor network=n.感测网络
+sensor node=n.感测节点
+sequence structure=n.循序结构
+sequential search=n.顺序搜索
+sergey brin=n.布尔(Google 创办人)
+serial advanced technology attachment=n.序列先进技术附接,序列先进技术附件
+serial bus=n.串行汇排流
+serial port=n.串行端口
+service pack=n.服务软件组
+session layer=n.会议层
+share alike=n.禁止改作,相同方式分享
+shareware=n.共享件,共享软件
+shielded twisted pair=n.遮蔽式双绞线
+simple mail transmission protocol=n.简易邮件传输协议
+single-entry/single-exit=n.单一入口/单一出口
+single-precision floating-point=n.单精准度浮点数
+small office/home office=n.小型办公室/家庭办公室,个人及居家办公室
+smart card=n.智能卡
+smart grid=n.智慧电网
+sniffer=n.窃听者
+social engineering=n.社交工程
+software engineering=n.软件工程
+solid state disk=n.固态硬盘,固态磁盘
+spam=n.垃圾邮件
+specifications of input=n.输入规范
+specifications of output=n.输出规范
+spyware=n.间谍软件
+SQL injection=n.SQL 注入
+static RAM=n.静态随机存取内存
+store and forward switching=n.存转交换
+stored program=n.内储程序
+structured programming=n.结构化程序设计
+subnet=n.子网
+subnet mask=n.子网掩码
+subroutine calls=n.子程序呼叫
+supercomputer=n.超级计算机
+surface side=n.磁面
+switching hub=n.交换式集线器
+symbian=n.Symbian 操作系统
+syntax error=n.语法错误
+system software=n.系统软件
+System/360=n.360 系统
+tagged image file format=n.带标影像文件格式
+tags=n.标记
+Taiwan Academic Network=n.台湾学术网络
+Taiwan Internet Contnet Rating Promotion Foundation=n.台湾网站内容分级系统
+Taiwan Network Information Center=n.台湾网络信息中心
+taskbar=n.任务栏
+telemedicine=n.远距医疗
+TELNET=n.远程登录协定
+ten commandments of computer ethics=n.计算机伦理的十戒
+TeraBytes=n.兆字节
+terminal =n.终端机
+terminator=n.终接器
+test data=n.测试资料
+text mode=n.文本模式
+theory of computation=n.计算理论
+thin film transistor=n.薄膜晶体管
+third generation=n.第三代行动通讯
+threads=n.线程
+Timothy Berners-Lee=n.柏纳-李(全球信息网发明者)
+top down=n.由上而下
+touch pad=n.触摸板
+touch screen=n.触控屏幕
+transfer time=n.转移时间
+TRansistorized Airborne DIgital Computer=n.TRADIC 计算机名
+transmission control protocol=n.传输控制协议
+transmission control protocol/Internet protocol=n.传输控制协议/因特网协议
+transport layer=n.传输层
+Trojan=n.木马程序
+Trojan agent=n.代理木马
+Trojan horse=n.特洛伊木马程序,特洛依木马
+Turing=n.杜林
+Turing award=n.杜林奖
+Turing machine=n.杜林机
+Turing test=n.杜林测试
+twisted pair=n.双绞线
+unicode=n.万国码
+uniform resource locator=n.全球资源寻址器,全球资源定位器
+universal serial bus=n.通用串行总线,通用串行总线
+UNIX=n.UNIX 操作系统
+Unix-like=n.类 Unix
+unshielded twisted pair=n.无遮蔽式双绞线,无遮蔽双绞线
+user datagram protocol=n.用户数据报协议,用户数据报协议
+user friendly=n.用户亲和性,用户满意接口
+user interface=n.用户接口,用户接口
+UTF-8=n.UTF-8 编码
+utilities software=n.工具软件,公用软件
+utility program=n.工具程序,公用程序
+vacuum tube=n.真空管
+value added network=n.加值网络
+vector=n.向量
+vector diagram=n.向量图
+vector image=n.向量影像
+vertical application=n.垂直应用软件
+vertical thinking=n.垂直式思考,垂直式逻辑思考,垂直思考
+very large scale integrated circuit=n.超大规模集成电路
+very large scale integration=n.超大规模集成电路
+video conference=n.视频会议
+video on demand=n.随选视讯
+vinton cerf=n.瑟夫(因特网创始人)
+virtual keyboard=n.虚拟键盘
+virtual memory=n.虚拟内存
+virtual private network=n.虚拟私有网络,虚拟专用网络
+virtual reality=n.虚拟现实
+visual programming language=n.可视化程序语言
+Voice over Internet Protocol=n.网络电话,因特网协议上的语音
+volatile memory=n.挥发性内存
+von Neumann=n.范纽曼
+von Neumann architecture=n.范纽曼架构
+von Neumann Model=n.范纽曼模式
+wafer=n.晶圆
+wearable computer=n.随身计算机
+web camera=n.Web 摄影机
+web crawler=n.网页蜘蛛
+web mail=n.网络电子信箱
+web page=n.网页
+web site=n.网站
+web2.0=n.第二代全球信息网
+web3.0=n.第三代全球信息网
+What You See Is What You Get=n.所见即所得
+wide area network=n.广域网
+Wiki=n.维基,共笔(一种可在网络上开放多人协同创作的超文本系统)
+Wikipedia=n.维基百科全书,维基百科
+windows media audio=n.窗口媒体声频
+wireless application protocol=n.无线应用通讯协议
+wireless date collector=n.无线资料收集器
+wireless ethernet compatibility alliance=n.无线以太网兼容联盟,无线以太网络兼容性联盟
+wireless fidelity=n.无线兼容性,无线保真度
+wireless keyboard=n.无线键盘
+wireless LAN=n.无线局域网络
+wireless local area network=n.无线局域网络
+wireless metorpolitan area network=n.无线都会网络
+wireless network=n.无线网络
+wireless personal area network=n.无线网络
+wireless sensor network=n.无线感测网络
+Woridwide Interoperability for Microwave Access=n.全球微波存取互通
+workgroups=n.工作组
+workstation=n.工作站
+World Wide Web=n.全球信息网
+World Wide Web Consortium=n.全球信息网联盟
+zero-day attack=n.零时差攻击
+ZettaByte=n.皆字节
+zombie computer=n.殭尸计算机
