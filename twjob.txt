@@ -1,0 +1,203 @@
+accountant
+actor
+actress
+agent
+ambassador
+analyst
+anchor
+anchorman
+anchorwoman
+announcer
+archaeologist
+architect
+artist
+assistant
+astronaut
+astronomer
+athlete
+attendant
+attorney
+auditor
+baker
+banker
+barber
+biologist
+bishop
+blacksmith
+boxer
+broker
+businessman
+butcher
+buyer
+carpenter
+cashier
+chairman
+chef
+chemist
+cleaner
+clerk
+clown
+coach
+cobbler
+cook
+cowboy
+dancer
+dean
+dentist
+designer
+detective
+doctor
+driver
+economist
+editor
+electrician
+engineer
+farmer
+fashion
+firefighter
+fireman
+fisherman
+foreman
+gardener
+guard
+guardian
+guide
+hacker
+hairdresser
+historian
+housekeeper
+housewife
+hunter
+interpreter
+investigator
+janitor
+journalist
+judge
+labor
+lawyer
+legislator
+librarian
+linguist
+magician
+mailman
+manager
+mathematician
+mechanic
+meteorologist
+miner
+minister
+model
+monk
+musician
+narrator
+novelist
+nun
+nurse
+operator
+pastor
+pharmacist
+photographer
+physicist
+pilot
+policeman
+politician
+postman
+preacher
+president
+priest
+principal
+professor
+receptionist
+reporter
+researcher
+sailor
+salesman
+salesperson
+scientist
+seamstress
+secretary
+senator
+singer
+soldier
+statesman
+statistician
+surveyor
+tailor
+teacher
+technician
+translator
+tutor
+typist
+umpire
+usher
+vendor
+vet
+veterinarian
+volunteer
+waiter
+waitress
+warrior
+writer
+airline representative=n.地勤人員
+anchorperson=n.新聞主播
+associate professor=n.副教授
+astrologist=n.占星家
+anthropologist=n.人類學家
+Attorney General=n.檢查總長
+auto mechanic=n.汽車技工
+baseball player=n.棒球選手
+basketball player=n.籃球選手
+bell boy=n.旅館的門童
+bellhop=n.旅館的行李員
+bin man=n.清潔工,垃圾工
+botanist=n.植物學家
+budgeter=n.預算編制者
+bus driver=n.公家的車(巴士)司機
+cartoonist=n.漫畫家
+computer programmer=n.電腦程式設計師
+construction worker=n.建築工人
+caddy=n.球童
+customs officer=n.海關官員
+desk clerk=n.接待員
+dustman=n.清潔工,清道夫
+entomologist=n.昆蟲學家
+faller=n.伐木工。
+florist=n.花商、種花者
+flyer=n.飛行員
+Foreign minister=n.外交部長
+geologist=n.地質學家
+geographer=n.地理學家
+gas station attendant=n.加油工
+hierophant=n.神職者
+internuncio=n.教庭公使
+jailer=n.監獄看守員
+litterateur=n.文學家
+life guard=n.救生員
+general manager=n.總經理
+assistant manager=n.襄理
+masseur=n.男按摩師
+masseuse=n.女按摩師
+movie director=n.導演
+movie star=n.電影明星
+mythologist=n.神話學者
+office clerk=n.職員
+office staff=n.上班族
+obstetrician=n.婦產科醫生
+pediatrician=n.小兒科醫師
+cardiologist=n.心臟病科醫師
+parachutist=n.跳傘人
+postal clerk=n.郵政人員
+vice president=n.副總統/副總裁
+Pope=n.羅馬教宗
+real estate agent=n.房地產經紀人
+repairman=n.修理工人
+bluejacket=n.水手
+salespeople=n.售貨員
+seismologist=n.地震學家
+stagehand=n.舞台工作人員
+taxi driver=n.計程車司機
+tour guide=n.導遊
+traffic warden=n.交通管理員.
+TV producer=n.電視制作人
+welder=n.焊接工
+zoologist=n.動物學家
