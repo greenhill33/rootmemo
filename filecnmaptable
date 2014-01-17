@@ -1,15 +1,20 @@
-%%% basictoelf.txt=TOEFL核心词汇=2014/1/17 1984字,TOEFL核心词汇21天突破
-%%% cnbasicearth.txt=地球科学=2014/1/13 200字,基础英语之地球科学单字
-%%% cnbasicscience.txt=自然科学=2014/1/13 454字,基础英语之生物,物理,化学单字
-%%% cnmathematics.txt=数学单字=2014/1/12 305字,基础英语之数学单字
-%%% cnfamilylife.txt=家庭生活=2014/1/11 68字,基础英语之家庭生活
-%%% cnschoollife.txt=校园生活=2014/1/10 89字,基础英语之校园生活
-%%% cnsociallife.txt=社会生活=2014/1/9 131字,基础英语之社会生活
-%%% chinafood.txt=地方小吃=2013/12/30 86字,地方常用小吃名称
-%%% cninfoword.txt=信息名词=2013/12/21 871字,电子信息专有名词
-%%% cntsmc250.txt=TSMC常用单字250=2013/11/15 249字,TSMC常用单字250
-%%% cnjob.txt=职业名称=2013/10/27 203字,中英文职业名称
-%%% exercise.txt=运动名称=2013/10/15 46字,中英文运动名称
-%%% what_is_written_stars.txt=What_is_Written_Stars=2013/9/7 42字,三民课本 1-6 What is Written Stars?
-%%% recipe_for_delicious_friendship.txt=Recipe_for_Delicious_Friendship=2013/9/6 26字,三民课本 1-1 Recipe for Delicious Friendship
-%%% areyoupopular.txt=Are you popular=2013/8/2 27字,高一第1课 Are you popular
+%%%1 cn4grade.txt=四级必背词汇=2014/1/25 2662字,英语四级必背重点词汇
+%%%1 cn6grade.txt=六级高频词汇=2014/1/25 2221字,英语六级高频词汇
+%%%4 gre66.txt=GRE词汇=2014/1/21 6669字,极品GRE红宝书词汇
+%%%4 ielts45.txt=雅思词汇=2014/1/20 4547字,最新雅思词汇精选
+%%%3 toefl29.txt=TOEFL词汇精选=2014/1/17 2912字,TOEFL词汇精选
+%%%2 basictoelf.txt=TOEFL核心词汇=2014/1/17 2132字,TOEFL核心词汇21天突破
+%%%2 cnbasicearth.txt=地球科学=2014/1/13 200字,基础英语之地球科学单字
+%%%3 cnbasicscience.txt=自然科学=2014/1/13 454字,基础英语之生物,物理,化学单字
+%%%3 cnmathematics.txt=数学单字=2014/1/12 305字,基础英语之数学单字
+%%%3 cnfamilylife.txt=家庭生活=2014/1/11 68字,基础英语之家庭生活
+%%%2 cnschoollife.txt=校园生活=2014/1/10 89字,基础英语之校园生活
+%%%1 cnsociallife.txt=社会生活=2014/1/9 131字,基础英语之社会生活
+%%%2 chinafood.txt=地方小吃=2013/12/30 86字,地方常用小吃名称
+%%%1 cninfoword.txt=信息名词=2013/12/21 871字,电子信息专有名词
+%%%1 cntsmc250.txt=TSMC常用单字250=2013/11/15 249字,TSMC常用单字250
+%%%1 cnjob.txt=职业名称=2013/10/27 203字,中英文职业名称
+%%%0 exercise.txt=运动名称=2013/10/15 46字,中英文运动名称
+%%%0 what_is_written_stars.txt=What_is_Written_Stars=2013/9/7 42字,三民课本 1-6 What is Written Stars?
+%%%0 recipe_for_delicious_friendship.txt=Recipe_for_Delicious_Friendship=2013/9/6 26字,三民课本 1-1 Recipe for Delicious Friendship
+%%%0 areyoupopular.txt=Are you popular=2013/8/2 27字,高一第1课 Are you popular
