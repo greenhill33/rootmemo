@@ -1,15 +1,20 @@
-%%% basictoelf.txt=TOEFL核心單字=2014/1/17 1984字,TOEFL核心單字21天突破
-%%% twbasicearth.txt=地球科學=2014/1/13 200字,基礎英語之地球科學單字
-%%% twbasicscience.txt=自然科學=2014/1/13 454字,基礎英語之生物,物理,化學單字
-%%% twmathematics.txt=數學單字=2014/1/12 305字,基礎英語之數學單字
-%%% twfamilylife.txt=家庭生活=2014/1/11 68字,基礎英語之家庭生活
-%%% twschoollife.txt=校園生活=2014/1/10 89字,基礎英語之校園生活
-%%% twsociallife.txt=社會生活=2014/1/9 131字,基礎英語之社會生活
-%%% TaiwanFood.txt=台灣小吃=2013/12/30 68字,台灣常用小吃名稱
-%%% infoword.txt=資訊名詞=2013/12/21 871字,電子資訊專有名詞
-%%% twtsmc250.txt=TSMC常用單字250=2013/11/15 249字,TSMC常用單字,參考人事部
-%%% twjob.txt=職業名稱=2013/10/27 203字,中英文職業名稱
-%%% exercise.txt=運動名稱=2013/10/15 46字,中英文運動名稱
-%%% what_is_written_stars.txt=What_is_Written_Stars=2013/9/7 42字,三民課本 1-6 What is Written Stars
-%%% recipe_for_delicious_friendship.txt=Recipe_for_Delicious_Friendship=2013/9/6 26字,三民課本 1-1 Recipe for Delicious Friendship
-%%% areyoupopular.txt=Are you popular=2013/8/2 27字,高一第1課 Are you popular
+%%%4 gre66.txt=GRE極品單字=2014/1/25 6669字,極品GRE紅寶書單字
+%%%3 toefl29.txt=託褔單字精選=2014/1/21 2912字,TOEFL單字精選
+%%%2 basictoelf.txt=TOEFL核心單字=2014/1/21 2132字,TOEFL核心單字21天突破
+%%%4 ielts45.txt=雅思單字精選=2014/1/21 4547字,最新雅思單字精選
+%%%2 twbasicearth.txt=地球科學=2014/1/13 200字,基礎英語之地球科學單字
+%%%3 twbasicscience.txt=自然科學=2014/1/13 454字,基礎英語之生物,物理,化學單字
+%%%3 twmathematics.txt=數學單字=2014/1/12 305字,基礎英語之數學單字
+%%%3 twfamilylife.txt=家庭生活=2014/1/11 68字,基礎英語之家庭生活
+%%%2 twschoollife.txt=校園生活=2014/1/10 89字,基礎英語之校園生活
+%%%1 twsociallife.txt=社會生活=2014/1/9 131字,基礎英語之社會生活
+%%%0 TaiwanFood.txt=台灣小吃=2013/12/30 68字,台灣常用小吃名稱
+%%%1 infoword.txt=資訊名詞=2013/12/21 871字,電子資訊專有名詞
+%%%2 cn4grade.txt=大陸四級必背單字=2013/12/16 2662字,英語四級必背重點單字
+%%%2 cn6grade.txt=大陸六級高頻單字=2013/12/7 2221字,英語六級高頻率單字
+%%%1 twtsmc250.txt=TSMC常用單字250=2013/11/15 249字,TSMC常用單字,參考人事部
+%%%1 twjob.txt=職業名稱=2013/10/27 203字,中英文職業名稱
+%%%0 exercise.txt=運動名稱=2013/10/15 46字,中英文運動名稱
+%%%0 what_is_written_stars.txt=What_is_Written_Stars=2013/9/7 42字,三民課本 1-6 What is Written Stars
+%%%0 recipe_for_delicious_friendship.txt=Recipe_for_Delicious_Friendship=2013/9/6 26字,三民課本 1-1 Recipe for Delicious Friendship
+%%%0 areyoupopular.txt=Are you popular=2013/8/2 27字,高一第1課 Are you popular
