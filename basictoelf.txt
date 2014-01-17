@@ -18,9 +18,11 @@ accommodate
 accompany
 accomplish
 accord
+account for
 accumulate
 accuse
 acid
+acoustic
 acquaint
 acquire
 acre
@@ -40,11 +42,13 @@ adorn
 advent
 adverse
 advocate
+aesthetic
 affair
 agent
 aggregate
 aggressive
 agitation
+akin
 alarm
 algae
 alien
@@ -71,6 +75,7 @@ Antarctica
 anthropology
 antibiotic
 anticipate
+antiquate
 anxiety
 ape
 apprentice
@@ -95,6 +100,8 @@ articulate
 artifact
 artisan
 ascend
+asphalt
+aspiring
 assemble
 assert
 assess
@@ -112,6 +119,7 @@ auditory
 auger
 authentic
 autobiography
+automated
 autonomy
 avant-garde
 avenue
@@ -120,6 +128,7 @@ aware
 awkward
 axe
 axis
+baboon
 backbone
 background
 backward
@@ -158,10 +167,13 @@ bias
 bind
 biography
 biologist
+bipedal
+bison
 bite
 bizarre
 blade
 blast
+blazing
 bleak
 blend
 blossom
@@ -197,6 +209,7 @@ buckle
 bugle
 bulb
 bulk
+bumblebee
 bunch
 burden
 burgeon
@@ -243,6 +256,7 @@ cathedral
 cautious
 cavity
 cease
+cedar
 ceiling
 celebrated
 celestial
@@ -251,6 +265,7 @@ cellular
 cellulose
 Celsius
 census
+ceramics
 ceremony
 challenge
 chamber
@@ -265,7 +280,9 @@ chill
 chimpanzee
 chip
 chisel
+chlorophyll
 chord
+choreograph
 chorus
 chunk
 circuit
@@ -352,8 +369,10 @@ content
 context
 continual
 continuous
+continuum
 contribute
 controversy
+convection
 convention
 converge
 converse
@@ -377,8 +396,10 @@ cotton
 counterpart
 crab
 craft
+cranial
 crater
 credit
+crisscross
 critic
 critical
 crouch
@@ -418,6 +439,7 @@ defend
 deficient
 definite
 degrade
+deity
 deliberate
 delicate
 delta
@@ -450,6 +472,7 @@ dim
 dime
 dimension
 dinosaur
+dioxide
 disaster
 discard
 discern
@@ -460,6 +483,7 @@ dismay
 disperse
 disposal
 dispute
+disrepute
 disseminate
 dissolve
 distant
@@ -498,6 +522,7 @@ dye
 dynamic
 eager
 earnest
+earthenware
 eccentric
 echo
 eclipse
@@ -512,6 +537,7 @@ elevate
 elicit
 eligible
 eliminate
+elliptical
 eloquent
 elusive
 emanate
@@ -525,6 +551,7 @@ emphasize
 enclose
 encompass
 encounter
+endangered
 endeavor
 endow
 endure
@@ -569,6 +596,8 @@ exempt
 exert
 exhaustion
 exhibit
+exhilarating
+exocrine
 exotic
 expertise
 explicit
@@ -602,6 +631,7 @@ fatigue
 feasible
 feat
 federal
+felt
 fertile
 fiber
 fiction
@@ -635,6 +665,7 @@ focus
 fog
 foliage
 folk
+forage
 foremost
 forge
 formation
@@ -651,12 +682,14 @@ frame
 freight
 frequent
 friction
+frigid
 frontier
 frost
 frustrate
 fuel
 functional
 fundamental
+fungus
 funnel
 fur
 furnace
@@ -665,6 +698,7 @@ furniture
 fuse
 gallery
 gallon
+gamma
 gap
 garbage
 gear
@@ -677,18 +711,24 @@ genre
 gentle
 genuine
 genus
+geographic
+geologic
+geomagnetic
 geometric
 giant
+gibbon
 gifted
 gigantic
 glacial
 gland
 glare
+glassy
 glaze
 glimpse
 global
 glow
 glue
+gradient
 grain
 grand
 granite
@@ -705,6 +745,8 @@ hallmark
 hallway
 halt
 hammer
+handcrafted
+handedness
 handful
 handle
 hang
@@ -733,6 +775,7 @@ herd
 heritage
 hesitate
 hexagon
+hibernate
 hide
 hierarchy
 highlight
@@ -740,6 +783,7 @@ hinge
 hinterland
 hive
 hollow
+hominid
 homogeneous
 honor
 hook
@@ -758,6 +802,7 @@ hydrogen
 hypersensitive
 hypothesis
 iceberg
+ichthyosaur
 ideal
 identical
 identify
@@ -777,6 +822,7 @@ immune
 impact
 impair
 impart
+impediment
 imperative
 impervious
 implement
@@ -785,6 +831,8 @@ imply
 impose
 improvise
 impulse
+in spite of
+in terms of
 inability
 inanimate
 incentive
@@ -793,6 +841,7 @@ inclination
 incongruous
 incorporate
 incredible
+incubate
 indispensable
 induce
 inevitable
@@ -839,10 +888,12 @@ interfere
 interior
 interpret
 interrupt
+interstellar
 interval
 intervene
 intestine
 intimate
+intoxication
 intricate
 intriguing
 intrinsic
@@ -854,8 +905,11 @@ investigate
 inviting
 involve
 involved
+ion
 irony
 irresistible
+irreverent
+irreversible
 irrigate
 isolate
 issue
@@ -868,12 +922,14 @@ jolt
 journal
 juice
 jumble
+Jupiter
 jurisdiction
 jury
 keen
 kernel
 kerosene
 kettle
+kiln
 kinetic
 kingdom
 kitchen
@@ -895,6 +951,7 @@ layout
 lean
 lease
 leather
+ledge
 legal
 legend
 legislation
@@ -904,14 +961,19 @@ lens
 levy
 liberty
 librarian
+lichen
 lighthouse
 limb
 limestone
 limitation
+limner
 linear
+linguistic
 lip
+lipid
 listless
 literally
+lithosphere
 litter
 livelihood
 lizard
@@ -924,6 +986,7 @@ logical
 lone
 longing
 loom
+loosely
 loyal
 lubrication
 lucrative
@@ -936,12 +999,15 @@ lust
 luxury
 lyric
 magical
+magma
+magnesium
 magnetic
 magnify
 maintenance
 maize
 majestic
 makeup
+mammalian
 mammoth
 mandate
 maneuver
@@ -961,6 +1027,7 @@ match
 maternal
 mature
 maximum
+meager
 meander
 mechanism
 medicine
@@ -975,12 +1042,16 @@ merchant
 merciless
 mercury
 mere
+Mesozoic
 metabolism
+meteorite
 meteorologist
+methane
 meticulously
 metropolis
 microbe
 microscopic
+midair
 migrate
 mild
 military
@@ -993,10 +1064,12 @@ miniature
 ministry
 mint
 minuscule
+minutely
 mission
 mobility
 mock
 mode
+modem
 moderate
 modest
 modify
@@ -1006,6 +1079,7 @@ mold
 molecular
 moment
 monetary
+monochrome
 monotonous
 monster
 monument
@@ -1033,20 +1107,24 @@ narration
 narrow
 nationwide
 navigate
+nebula
 necessity
 neck
 nectar
+needlework
 needy
 negate
 neglect
 negotiate
 neighbor
+neoclassical
 net
 neutral
 niche
 nickel
 nickname
 nitrogen
+nomadic
 nonetheless
 nonsense
 normal
@@ -1056,6 +1134,7 @@ notable
 notice
 notion
 notwithstanding
+nourishing
 novelty
 noxious
 nuclear
@@ -1091,6 +1170,7 @@ optimal
 oral
 orbit
 orchestra
+orchid
 orderly
 ore
 organic
@@ -1100,6 +1180,7 @@ ornament
 outbreak
 outermost
 outgoing
+outgrow
 outline
 outlying
 output
@@ -1120,6 +1201,7 @@ paddle
 painstaking
 pale
 pamphlet
+pancreas
 panel
 paradox
 parallel
@@ -1151,6 +1233,7 @@ pendulum
 penetrate
 penicillin
 peninsula
+per capita
 perceive
 percentage
 percussion
@@ -1160,6 +1243,7 @@ peripheral
 perishable
 permanent
 perpetuate
+perplexing
 persist
 personality
 perspective
@@ -1170,6 +1254,7 @@ phase
 phenomenon
 philosopher
 photograph
+photosynthesis
 phrase
 physician
 physicist
@@ -1179,10 +1264,12 @@ pigment
 pile
 pilot
 pine
+pinhead
 pitch
 pivot
 plague
 plain
+planetary
 plank
 plantation
 plasma
@@ -1202,9 +1289,11 @@ polar
 pole
 polished
 poll
+pollen
 pollutant
 polygon
 popularity
+populous
 pore
 porpoise
 portable
@@ -1214,6 +1303,8 @@ portray
 positive
 possess
 postage
+potash
+potassium
 potent
 potter
 poverty
@@ -1240,12 +1331,15 @@ presence
 preservation
 prestige
 presumably
+pretension
 prevail
 prevent
 previous
 prey
 pride
+primal
 primary
+primate
 primitive
 principal
 prior
@@ -1279,6 +1373,7 @@ proposition
 prose
 prospect
 prosper
+protagonist
 protection
 protein
 protest
@@ -1291,6 +1386,7 @@ psychologist
 publication
 publicize
 puddle
+pueblo
 pull
 pulse
 pump
@@ -1329,6 +1425,7 @@ ratify
 ration
 rational
 rattle
+raven
 raw
 react
 ready
@@ -1337,6 +1434,7 @@ realize
 realm
 reap
 rear
+rearrange
 rebel
 rebuild
 recall
@@ -1353,6 +1451,7 @@ recreation
 recruit
 rectangular
 recycle
+reddish
 reduction
 reef
 reel
@@ -1361,6 +1460,7 @@ refine
 reflection
 reform
 refreshing
+refrigerate
 refurbish
 refuse
 regard
@@ -1370,6 +1470,7 @@ regional
 regular
 regulate
 rehabilitate
+reheating
 reign
 reinforce
 reject
@@ -1396,6 +1497,7 @@ repair
 repeat
 repel
 repertoire
+repertory
 repetitive
 replenish
 replicate
@@ -1409,6 +1511,7 @@ requirement
 resemble
 reserve
 reservoir
+reshape
 reside
 residue
 resin
@@ -1452,24 +1555,30 @@ roam
 roar
 rocky
 rod
+rodent
 roll
 romance
 roof
 rope
 rotate
+rote
 rough
+rounded
 routine
 row
 rub
 rule
 rumor
+runoff
 rural
 rush
 rust
+saber
 sack
 saddle
 sail
 sale
+salinity
 sanctuary
 sandy
 sanitation
@@ -1481,6 +1590,7 @@ save
 scar
 scarce
 scatter
+scavenger
 scene
 scent
 schedule
@@ -1491,6 +1601,7 @@ scout
 scramble
 scratch
 screen
+scruple
 sculptor
 scurry
 seal
@@ -1511,6 +1622,7 @@ seldom
 select
 sensational
 sensitive
+sensory
 sentimental
 separately
 sequence
@@ -1520,6 +1632,7 @@ session
 setting
 severe
 sew
+sewerage
 shade
 shaft
 shake
@@ -1571,7 +1684,9 @@ smooth
 smug
 snake
 snap
+snowflake
 soap
+soaring
 sodium
 solder
 soldier
@@ -1600,6 +1715,7 @@ spectrum
 speculation
 sphere
 spider
+spiky
 spin
 spine
 spiral
@@ -1612,14 +1728,18 @@ sponsor
 spontaneous
 spoon
 sprawl
+springboard
 sprout
 spur
+squarely
 squash
 squat
+squeak
 squeeze
 squirrel
 stabilize
 staff
+stagecoach
 stagnant
 staircase
 stake
@@ -1628,6 +1748,7 @@ stamp
 staple
 startling
 starve
+stately
 stationary
 statistics
 stature
@@ -1664,6 +1785,7 @@ strength
 stress
 stretch
 strict
+strikingly
 stringent
 strip
 strive
@@ -1671,16 +1793,22 @@ stroke
 stroll
 structural
 struggle
+stub
 studio
+stylized
 subdivide
+subjugation
 submerge
 submit
 subsequent
 subsidize
 subsist
+subspecies
 substantial
 substitute
+subterranean
 subtle
+subtractive
 suburb
 subway
 succeed
@@ -1692,6 +1820,7 @@ suit
 sulfur
 sum
 summit
+sunlit
 superb
 superficial
 superheat
@@ -1749,6 +1878,7 @@ tax
 team
 tear
 technical
+tectonics
 tedious
 teens
 telegraph
@@ -1756,8 +1886,10 @@ telescope
 televise
 temperate
 temple
+temporarily
 tenant
 tendency
+tenement
 tension
 tentacle
 term
@@ -1775,11 +1907,13 @@ theme
 therapy
 thereafter
 thereby
+thermodynamics
 thickness
 thin
 thorny
 thoroughly
 thought
+thousandfold
 thread
 threat
 thresh
@@ -1805,9 +1939,11 @@ toe
 tolerance
 tomato
 tongue
+toothed
 topic
 topography
 tornado
+totality
 touch
 tough
 tow
@@ -1852,21 +1988,26 @@ trolley
 troop
 tropic
 trouble
+trough
 troupe
 trumpet
 trunk
 truth
 tube
 tumble
+tundra
 tune
 turbulent
+turnpike
 turtle
 twig
+twine
 twist
 typical
 tyrannical
 ultimate
 ultraviolet
+unaided
 undergo
 undergraduate
 underlie
@@ -1887,6 +2028,7 @@ urban
 urge
 usher
 utensil
+utilitarian
 utility
 utilize
 utter
@@ -1896,6 +2038,7 @@ vacuum
 vague
 valid
 vanish
+vantage
 vapor
 variable
 variety
@@ -1911,6 +2054,7 @@ venture
 versatile
 verse
 version
+vertebrate
 vertical
 vessel
 vestige
@@ -1944,6 +2088,7 @@ wane
 ward
 ware
 warfare
+warp
 warrant
 wary
 wax
@@ -1964,7 +2109,9 @@ wholesale
 widespread
 widow
 willow
+windswept
 wipe
+wispy
 wit
 withdraw
 withstand
@@ -1974,6 +2121,7 @@ wool
 worm
 wrap
 wreck
+wren
 wrought
 yarn
 yearn
