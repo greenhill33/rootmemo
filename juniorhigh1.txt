@@ -2,7 +2,7 @@ a
 a few
 a little
 a lot
-a lot of=2ph.許多,大量
+a lot of=ph.許多,大量
 a.m.
 able
 about
@@ -27,7 +27,7 @@ air-conditioner
 airplane
 airport
 alarm
-alarm clock=3ph.鬧鐘
+alarm clock=ph.鬧鐘
 album
 alike
 all
@@ -68,9 +68,9 @@ arrange
 arrive
 art
 as
-as if=3ph.好像,似乎,彷彿
-as soon as=2ph.一…就…,不遲於
-as well as=2ph.也,還,不但…而且
+as if=ph.好像,似乎,彷彿
+as soon as=ph.一…就…,不遲於
+as well as=ph.也,還,不但…而且
 Asia
 ask
 assume
@@ -129,7 +129,7 @@ belt
 beside
 between
 bicycle
-bicycle riding=3ph.騎腳踏車
+bicycle riding=ph.騎腳踏車
 big
 bike
 bird
@@ -156,7 +156,7 @@ born
 borrow
 boss
 both
-both-and=2ph.both…and…是用來強調兩者皆為真實
+both-and=ph.both…and…是用來強調兩者皆為真實
 bother
 bottle
 bottom
@@ -187,7 +187,7 @@ burger
 burn
 burst
 bus
-bus stop=2ph.公車的停車站
+bus stop=ph.公車的停車站
 business
 businessman
 busy
@@ -226,7 +226,7 @@ cassette
 cat
 catch
 CD
-CD player=2ph.CD唱機
+CD player=ph.CD唱機
 celebrate
 cellphone
 cent
@@ -256,7 +256,7 @@ childlike
 chin
 China
 Chinese
-Chinese New Year=3ph.中國新年,春節,農曆新年
+Chinese New Year=ph.中國新年,春節,農曆新年
 chocolate
 chopsticks
 Christmas
@@ -266,7 +266,7 @@ circle
 city
 clap
 class
-class leader=3ph.班長,職業隊長,領導者
+class leader=ph.班長,職業隊長,領導者
 classical
 classmate
 classroom
@@ -297,7 +297,7 @@ comment
 common
 complain
 computer
-computer game=3ph.電腦遊戲,電腦玩具
+computer game=ph.電腦遊戲,電腦玩具
 confident
 confuse
 contact lens
@@ -402,7 +402,7 @@ eighteen
 eighth
 eighty
 either
-either-or=2ph.只能二選一的
+either-or=ph.只能二選一的
 elementary school
 elephant
 eleven
@@ -417,7 +417,7 @@ environment
 eraser
 eve
 even
-even if=2ph.即使,雖然
+even if=ph.即使,雖然
 evening
 ever
 every
@@ -513,8 +513,8 @@ generous
 geography
 Germany
 get
-get off=2ph.離開,動身出發,下車
-get on=2ph.進展,出人頭地,應付,上車,穿上,責怪
+get off=ph.離開,動身出發,下車
+get on=ph.進展,出人頭地,應付,上車,穿上,責怪
 gift
 girl
 give
@@ -625,7 +625,7 @@ if
 imagine
 important
 in
-in front of=2ph.在某人或某物前面
+in front of=ph.在某人或某物前面
 influence
 insect
 inside
@@ -731,7 +731,7 @@ lunch
 machine
 magic
 mail
-mail carrier=3ph.郵車,郵船
+mail carrier=ph.郵車,郵船
 mailman
 make
 male
@@ -812,13 +812,13 @@ need
 needle
 negative
 neighbor
-neither-nor=2ph.既不…也不…
+neither-nor=ph.既不…也不…
 nephew
 never
 new
 news
 next
-next to=3ph.在…旁邊,幾乎
+next to=ph.在…旁邊,幾乎
 nice
 niece
 night
@@ -835,7 +835,7 @@ noon
 north
 nose
 not
-not only-but also=3ph.不僅…而且…
+not only-but also=ph.不僅…而且…
 note
 notebook
 nothing
@@ -870,7 +870,7 @@ our
 ours
 ourselves
 out
-out of=3ph.自…離開,在…範圍之外
+out of=ph.自…離開,在…範圍之外
 outside
 over
 own
@@ -895,14 +895,14 @@ pause
 pay
 pen
 pencil
-pencil box=2ph.鉛筆盒
+pencil box=ph.鉛筆盒
 people
 pepper
 perhaps
 person
 pet
 phone
-physical education=3ph.體育教育,體育課
+physical education=ph.體育教育,體育課
 piano
 pick
 picnic
@@ -944,7 +944,7 @@ prepare
 present
 pretty
 price
-primary school=2ph.小學
+primary school=ph.小學
 principal
 problem
 program
@@ -1228,8 +1228,8 @@ town
 toy
 trace
 traffic
-traffic jam=3ph.交通擁擠
-traffic lights=3ph.交通號誌燈
+traffic jam=ph.交通擁擠
+traffic lights=ph.交通號誌燈
 train
 treat
 tree
@@ -1284,7 +1284,7 @@ want
 warm
 was
 wash
-washing machine=3ph.洗衣機
+washing machine=ph.洗衣機
 watch
 water
 waterfall
