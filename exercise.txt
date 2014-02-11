@@ -35,6 +35,7 @@ skiing
 snowboard
 soccer
 softball
+squash=n.壁球
 surfing
 swimming
 table tennis
@@ -43,4 +44,3 @@ volleyball
 water polo
 weightlifting
 wrestling
-Squash=n.壁球
