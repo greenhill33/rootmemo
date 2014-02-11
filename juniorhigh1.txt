@@ -369,7 +369,7 @@ does
 dog
 doll
 dollar
-done
+done=adj.完成了,做完的
 door
 doubt
 down
