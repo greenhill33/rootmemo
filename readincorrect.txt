@@ -30,7 +30,7 @@ compile
 exit
 exist
 visual studio=建置Web的應用程式
-router
+router=n.安排路線的人,路由器
 log
 arrow
 error
