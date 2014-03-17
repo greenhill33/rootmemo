@@ -9,7 +9,7 @@ distributed
 distribution
 feature
 format
-illustrator
+illustrator=n.說明者,插圖畫家
 null
 maintenance
 modem
@@ -17,7 +17,7 @@ parameter
 percent
 power
 processor
-programmer
+programmer=程式設計者
 standard
 suite
 suit
@@ -42,9 +42,9 @@ tolerance
 version
 virgin
 tiny
-registry
+registry=n.登記,註冊
 register
-asus
+Asus=n.華碩
 value
 adobe
-android
+android=adj.有人類特徵,陽性;n.機器人
