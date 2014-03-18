@@ -198,10 +198,10 @@ surface area=表面积
 symmetric equation=对称方程式
 symmetry=对称
 tangent line=切线
-tangent plane	 切平面
+tangent plane=切平面
 tangent vector=切向量
 Taylor series=泰勒级数
-terminal point	 终点
+terminal point=终点
 The comparison test=比较试验
 The integral test=积分试验
 The intermediate value Theorem=中间值定理
