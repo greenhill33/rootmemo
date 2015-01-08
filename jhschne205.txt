@@ -1,0 +1,27 @@
+when=adv.何時
+history=n.歷史
+test=n.考試
+week=n.週,星期
+Tuesday=n.星期二
+Friday=n.星期五
+still=adv.仍然
+have to=phr.必須
+science=n.科學
+‧report=n.報告
+Monday=n.星期一
+a lot of=phr.很多的
+help=n.幫忙
+be good at=phr=擅長
+Sunday=n.星期日
+Come on!=句=拜託!
+Wednesday=n.星期三
+Thursday=n.星期四
+Saturday=n.星期六
+lesson=n.課
+computer=n.電腦
+math=n.數學
+chess=n.西洋棋
+church=n.教堂
+restaurant=n.餐廳
+noon=n.中午,正午
+enjoy=v.享受,喜歡
