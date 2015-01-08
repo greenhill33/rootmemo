@@ -1,0 +1,25 @@
+late=adj.遲的,晚的
+on time=phr.準時
+on foot=phr.步行
+scooter=n.輕型機車
+ride=v.騎,搭,乘(交通工具)
+because=conj.因為
+know=v.知道
+in time=phr.及時
+view=n.景色
+not anymore=phr.再也不…
+train=n.火車
+ferry=n.渡輪
+taxi=n.計程車
+airplane=n.飛機(=plane)
+motorcycle=n.摩托車
+drive=v.開(車)
+island=n.島
+city=n.城市
+MRT=n.捷運(=Mass Rapid Transit)
+place=n.地方
+seafood=n.海鮮
+sunset=n.日落
+back=adv.回原處
+along=prep.沿著
+market=n.市場
