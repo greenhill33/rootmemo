@@ -1,0 +1,14 @@
+fly=v.搭飛機
+whale=n.鯨魚
+nature-loving=adj.愛好大自然的
+ocean=n.海洋
+million=n.adj.百萬
+star=n.星
+chane=n.機會
+lovely=adj.可愛的
+cent=n.分
+pay=v.付,支付
+lend=v.借出
+borrow=v.借入
+rent=v.相信
+in total=phr.總計
