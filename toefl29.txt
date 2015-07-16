@@ -915,7 +915,7 @@ disastrous
 disband
 disburse
 discard
-discerm
+discern
 discernible
 discharge
 disciple
