@@ -31,6 +31,6 @@ that is to say=意即,也就是說
 sit back=不採取行動,袖手旁觀
 for instance=例如
 run into something=遭遇(困難、麻煩等)
-in addition to …=除…之外(還)
+in addition to ~=除…之外(還)
 leave something alone=別動、別碰某物
 when it comes to doing something=說到、提及(做)某事
