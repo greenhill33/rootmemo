@@ -1,4 +1,4 @@
-polyglot=adj.n.通宵多種語言的
+polyglot=adj.n.通曉多種語言的
 polymath=n.知識廣博者
 pony=n.小型馬
 porcine=adj.豬的,似豬的
