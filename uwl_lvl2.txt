@@ -56,7 +56,7 @@ period
 perspective
 pertinent
 phase
-phenomena
+phenomena=n.[C]現象
 portion
 precede
 precise
