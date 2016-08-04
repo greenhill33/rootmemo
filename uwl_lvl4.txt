@@ -21,7 +21,7 @@ contaminate
 contradict
 culture
 dedicate
-denominator
+denominator=n.分母,命名者,起源
 dense
 diagram
 discourse
@@ -48,7 +48,7 @@ intervene
 investigate
 judicial
 justify
-litigate
+litigate=v.訴訟
 logic
 military
 mobile
