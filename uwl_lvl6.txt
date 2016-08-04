@@ -62,8 +62,8 @@ reign
 reinforce
 revise
 sanction
-scalar
-strata
+scalar=n.數量
+strata=n.層,地層
 subjective
 sustain
 tangent
