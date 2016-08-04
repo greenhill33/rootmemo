@@ -48,7 +48,7 @@ maximum
 motive
 network
 norm
-notate
+notate=vt.以符號表示
 occupy
 orientate
 physical
