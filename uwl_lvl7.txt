@@ -74,4 +74,4 @@ texture
 thermal
 tissue
 transact
-x-ray
+X-ray
