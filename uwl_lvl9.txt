@@ -23,7 +23,7 @@ fund
 illuminate
 indigenous
 innate
-integer
+integer=n.整數,完整的事物,整體
 intrinsic
 liberate
 margin
@@ -74,7 +74,7 @@ emerge
 enhance
 enrich
 episode
-equidistant
+equidistant=adj.等距離的
 exponent
 facilitate
 fluent
