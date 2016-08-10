@@ -3508,7 +3508,6 @@ robbery
 robe
 robot
 ROC
-ROC
 rock
 rocket
 rode=v.騎馬,乘車,(ride的過去式)
