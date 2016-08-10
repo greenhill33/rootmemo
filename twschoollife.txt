@@ -41,7 +41,6 @@ elevator=電梯
 bulletin board=公佈欄
 bathroom=廁所
 pen=筆
-pen=筆
 desk=書桌
 chair=椅子
 blackboard=黑板
