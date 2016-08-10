@@ -304,7 +304,6 @@ decline with thanks=ph.婉言謝絕
 account for=ph.說明(原因等)
 aim at=ph.瞄準,針對
 allow for=ph.考慮到
-appeal to=ph.呼籲,要求
 arrive at=ph.達成,得出
 ask after=ph.詢問,問候
 ask for=ph.請求,要求
