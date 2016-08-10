@@ -1,4 +1,4 @@
-compliment=v.讚美
+compliment=v.n.讚美
 spiteful=adj.懷恨的,惡意的
 batch=n.一批,一群
 argue=v.吵架,爭論
@@ -42,7 +42,6 @@ adequate=adj.足夠的,適當的
 elicit=v.引出
 capable=adj.有能力的
 capability=n.能力
-compliment=n.讚美
 spite=n.惡意
 in no time=ph.馬上
 make one's day=ph.令某人開心
