@@ -133,6 +133,6 @@ expediency=n.方便,權宜之計
 expedient=n.權宜之計,臨時手段,(指行動)有用的
 expeditious=adj.迅速的,敏捷的
 expel=v.排出,開除
-expand=v.花費,用光
+expend=v.花費,用光
 expenditure=n.消耗,支出
 expertise=n.專門技術,專業知識
