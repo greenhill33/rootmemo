@@ -55,7 +55,6 @@ largess=n.贈送,賞賜,贈品,賀禮
 lark=n.v.玩樂,嬉鬧耍
 larva=n.(昆蟲的)幼蟲
 lash=n.v.鞭子,邊打,綑住,綑綁
-lark=n.無力,沒精打采
 lasso=n.(捕捉牛,馬用的)套索
 lasting=adj.持久的,永久的
 latency=n.潛伏期
