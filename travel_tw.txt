@@ -270,7 +270,6 @@ sales tax=銷售稅
 sex=性別,性愛
 shuttle=班車,區間車
 single=單身,單人,單一
-single room=單人房
 snow=雪,下雪
 soup=湯
 special=特別的
