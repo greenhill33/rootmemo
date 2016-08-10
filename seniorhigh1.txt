@@ -2255,7 +2255,6 @@ road
 rob
 robot
 ROC
-ROC
 rock
 rode=v.騎馬,乘車,(ride的過去式)
 role
