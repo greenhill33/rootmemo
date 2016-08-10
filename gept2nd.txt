@@ -180,7 +180,7 @@ award
 awful
 awkward
 ax
-B. C.
+B.C.=abbr.公元前,Before Christ
 babysit
 babysitter
 background
