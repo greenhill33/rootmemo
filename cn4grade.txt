@@ -1480,7 +1480,7 @@ marriage
 married
 marry
 marvelous
-marxist
+Marxist
 mask
 mass
 massive
@@ -1592,7 +1592,7 @@ necessity
 negative
 neglect
 negotiate
-negro
+Negro
 nephew
 nerve
 nest
