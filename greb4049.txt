@@ -676,7 +676,6 @@ jubilant=adj.喜悅的,歡呼的
 juncture=n.危機關頭,結合處
 jurisprudence=n.法律學,法學
 kaleidoscopic=adj.千變萬化的
-kaleidoscopic=adj.千變萬化的
 kiosk=n.售貨亭,電話亭
 knoll=n.小山,小圓丘
 laceration=n.撕裂,裂口
