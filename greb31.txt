@@ -12,7 +12,6 @@ relinquish=v.放棄,廢除
 relish=n.味道,滋味,喜好,喜好享受
 remainder=n.剩餘物
 remains=n.遺址,廢墟
-remainder=n.提醒人記憶之物
 reminisce=v.追憶,懷舊
 remiss=adj.疏忽的,不留心的
 remnant=n.殘餘物,零頭布料
