@@ -165,7 +165,6 @@ blizzard=大風雪
 sleet=雨雪
 hail=下冰雹
 hailstone=冰雹
-heat wave=熱浪
 tornado=龍捲風
 tropical low pressure center=熱帶性低氣壓中心
 high pressure=高氣壓
