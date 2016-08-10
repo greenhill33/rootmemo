@@ -1513,7 +1513,6 @@ road
 rob
 robot
 ROC
-ROC
 roller skating
 Rome=n.羅馬(義大利首都)
 roof
