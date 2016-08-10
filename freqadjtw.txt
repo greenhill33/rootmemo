@@ -1,4 +1,3 @@
-good=adj.好的
 bad=adj.壞的
 small=adj.小的
 big=adj.大的
