@@ -1,87 +1,87 @@
-%%%A twochar.txt=二个字母的英文单词=52词,整理二个字母的英文单词 (2014/1/26)
-%%%G cndicksonph.txt=必学迪克生短语词组=462词组,提升英文程度必学的迪克生Dickson英文惯用语 (2014/3/26)
-%%%C famouslangcn.txt=英语必学名句=40句,英语考试必学名句 (2015/1/13)
-%%%D verbtensejcn.txt=不规则动词三态初中版=245词,不规则动词三态初中版(现在,过去,过去分词)(庄老师整理)(2015/1/14)
-%%%F verbtensehcn.txt=不规则动词三态高中版=503词,不规则动词三态高中版(现在,过去,过去分词)(庄老师整理)(2015/1/14)
-%%%J verbtensecn.txt=不规则动词三态大全=730词,不规则动词三态完整版(现在,过去,过去分词)(庄老师整理)(2015/1/14)
-%%%H cn_hischool360.txt=高考单词3600=3606词,高考单词3600词汇列表 (2014/4/13)
-%%%H gaokao14cn.txt=高考常考单词=3360词,高考常考单词整理 (2015/2/26)
-%%%B primary3.txt=小学3年级=250词,英文单词列表 (2014/2/9)
-%%%D primary4.txt=小学4年级=50词,英文单词列表 (2014/2/10)
-%%%F primary5.txt=小学5年级=750词,英文单词列表 (2014/2/10)
-%%%G primary6.txt=小学6年级=1000词,英文单词列表 (2014/2/11)
-%%%D juniorhigh1.txt=初中1年级=1350词,英文单词列表 (2014/2/12)
-%%%F juniorhigh2.txt=初中2年级=1695词,英文单词列表 (2014/2/12)
-%%%G juniorhigh3.txt=初中3年级=2099词,英文单词列表 (2014/2/12)
-%%%F hschfrequencycn.txt=高考高频率单词=1498词,高考高频率单词(庄老师整理)(2015/1/12)
-%%%G seniorhigh1.txt=高中1年级=2992词,英文单词列表 (2014/2/12)
-%%%I seniorhigh2.txt=高中2年级=4491词,英文单词列表 (2014/2/12)
-%%%K seniorhigh3.txt=高中3年级=5991词,英文单词列表 (2014/2/12)
-%%%F latinverb54.txt=字根必背动词=233词,高考必背拉丁字根英文动词54组 (2016/1/13)
-%%%G vocationalhigh1.txt=中专中职1年级=2592词,英文单词列表 (2014/2/12)
-%%%H vocationalhigh2.txt=中专中职2年级=3292词,英文单词列表 (2014/2/12)
-%%%I vocationalhigh3.txt=中专中职3年级=3991词,英文单词列表 (2014/2/12)
-%%$K institute1.txt=专科1年级=4991词,英文单词列表 (2014/2/22)
-%%$L institute2.txt=专科2年级=5991词,英文单词列表 (2014/2/22)
-%%$M institute3.txt=专科3年级=6990词,英文单词列表 (2014/2/22)
-%%$M college1.txt=本科1年级=6990词,英文单词列表 (2014/2/26)
-%%$N college2.txt=本科2年级=7990词,英文单词列表 (2014/2/26)
-%%$O college3.txt=本科3年级=8989词,英文单词列表 (2014/2/26)
-%%$P college4.txt=本科4年级=9988词,英文单词列表 (2014/2/26)
-%%%F cn4grade.txt=四级必背词汇=2662词,英语四级必背重点词汇 (2014/1/25)
-%%%H cn6grade.txt=六级高频词汇=2221词,英语六级高频词汇 (2014/1/25)
-%%%I cn_phrase1.txt=大学英语六级常用短语=371短语,整理大学英语六级常用词组 (2014/3/2)
-%%%J cn_phrase2.txt=考研英语常考短语=384短语,整理考研英语常考词语的固定搭配 (2014/3/2)
-%%%Q cn_shortphrase.txt=实用英语短语大全=2051短语,整理高考必考的实用英语短语 (2014/4/10)
-%%%F freqadjcn.txt=常用形容词=162词,英文常用形容词单词列表(2015/1/15)
-%%%L gre66.txt=GRE词汇=6669词,极品GRE红宝书词汇 (2014/1/21)
-%%%G toef_often_appear.txt=托福常考字=588字,TOEFL常考单字 (2016/8/4)
-%%%K ielts45.txt=雅思词汇=4547词,雅思词汇精选 (2014/1/20)
-%%%O ieltsyasi14cn.txt=雅思常考单词=7663词,最新雅思常考单词整理 (2015/2/26)
-%%%I toefl29.txt=TOEFL词汇精选=2912词,TOEFL词汇精选 (2014/1/17)
-%%%H basictoelf.txt=TOEFL核心词汇=2132词,TOEFL核心词汇21天突破 (2014/1/17)
-%%%F toeic1.txt=多益单字基础=390词,TOEIC基础单字 (2014/12/10)
-%%%I toeicee.txt=多益单词整理=2570词,TOEIC英英单词整理 (2014/12/10)
-%%%C cnqnotu.txt=Q后面不接U的英文单词=71词,Q的后面经常会接上U,但其中仍有些例外 (2014/2/9)
-%%%A cnengcharhistory.txt=英文二十六个字母的来历=26词,英文字母的由来?最早发源于哪边呢?又是有甚么典故呢? (2014/1/26)
-%%%A cnlongwords.txt=最恐怖的十一个英文长单词=11词,英文最长的单词,不是人背的,太可怕了 (2014/1/15)
-%%%B collocation25cn.txt=常用搭配词=30词, 外语学习中的常用搭配词 (2015/3/9)
-%%%C readincorrect.txt=常念错的单词=50词,50个工程师最常念错的英文单词 (2014/3/18)
-%%%E cn_beauty.txt=最美的七十个英语单词=70词,英国文化协会票选出七十个最美丽的英文单词 (2014/4/24)
-%%%F fifteen_pwords.txt=15个藏龙卧虎的单词=15词,学习这15个字内的字根就可推广到15000单词 (2014/10/9 ref. pennington)
-%%%B yearanimal.txt=十二生肖=12词,十二生肖英译 (2015/1/13)
-%%%B aflightcn.txt=乘飞机=50词, 乘飞机时词汇 (2015/3/8)
-%%%F travel_cn.txt=旅游词汇=313字,旅游常用英文单词 (2016/8/3)
-%%%C clothescn.txt=服饰词汇=128词,服饰词汇 (2015/3/7)
-%%%G sewingcn.txt=针线词汇=353词,针线工厂词汇 (2015/3/7)
-%%%D cncalculator.txt=微积分常用述语=225词,微积分常用述语中英文对照 (2014/3/18)
-%%%D cntsmc250.txt=TSMC常用词汇250=249词,TSMC常用词汇250 (2013/11/15)
-%%%F cnbasicearth.txt=地球科学=200词,基础英语之地球科学词汇 (2014/1/13)
-%%%H cnbasicscience.txt=自然科学=454词,基础英语之生物,物理,化学词汇 (2014/1/13)
-%%%R cn_animalname.txt=英汉动物学名词=6555词,英汉动物学名词中英文对照 (2014/9/4)
-%%%R cn_plantname.txt=英汉植物学名词=3222词,英汉植物学名词中英文对照 (2014/9/4)
-%%%G cnmathematics.txt=数学词汇=305词,基础英语之数学词汇 (2014/1/12)
-%%%R cn_mathname.txt=英汉数学名词=8700词,英汉数学名词中英文对照 (2014/9/4)
-%%%G cnfamilylife.txt=家庭生活=68词,基础英语之家庭生活 (2014/1/11)
-%%%F cnschoollife.txt=校园生活=89词,基础英语之校园生活 (2014/1/10)
-%%%C cnsociallife.txt=社会生活=131词,基础英语之社会生活 (2014/1/9)
-%%%E cninfoword.txt=信息名词=871词,电子信息专有名词 (2013/12/21)
-%%%D cnjob.txt=职业名称=203词,中英文职业名称 (2013/10/27)
-%%%A exercise.txt=运动名称=46词,中英文运动名称 (2013/10/15)
-%%%D electriccn.txt=电器用品=152词,电器用品词汇 (2015/3/7)
-%%%C cngolfterm.txt=高尔夫球常用术语=31词,高尔夫球常用术语中英文对照 (2014/3/19)
-%%%D chinafood.txt=地方小吃=86词,地方常用小吃名称 (2013/12/30)
-%%%E cngreens.txt=蔬菜的英文名称=181词,蔬菜的英文名称 (2014/6/23)
-%%%E cnrhythm.txt=乐团常用术语=67词,乐团常用术语中英文对照 (2014/3/19)
-%%%S getlostcn.txt=英文吵架用句=110句,英文吵架时不能不会的句子 (2015/1/16)
-%%%P hsch_heritage100.txt=美国高中生的检验单词=100词,这是美国Heritage词典精心编辑的100个单词对高中毕业生英文水平是一个很好的评判标准 (2015/5/25)
-%%%M uwl_lvl1.txt=大学先修1=81词,University Word List level 1 (2016/8/4)
-%%%M uwl_lvl2.txt=大学先修2=86词,University Word List level 2 (2016/8/4)
-%%%M uwl_lvl3.txt=大学先修3=75词,University Word List level 3 (2016/8/4)
-%%%M uwl_lvl4.txt=大学先修4=78词,University Word List level 4 (2016/8/4)
-%%%M uwl_lvl5.txt=大学先修5=70词,University Word List level 5 (2016/8/4)
-%%%M uwl_lvl6.txt=大学先修6=77词,University Word List level 6 (2016/8/4)
-%%%M uwl_lvl7.txt=大学先修7=77词,University Word List level 7 (2016/8/4)
-%%%M uwl_lvl8.txt=大学先修8=62词,University Word List level 8 (2016/8/4)
-%%%M uwl_lvl9.txt=大学先修9=113词,University Word List level 9 (2016/8/4)
-%%%M uwl_lvl10.txt=大学先修10=89词,University Word List level 10 (2016/8/4)
+%%%A twochar.txt=二个字母的英文单词=52词,整理二个字母的英文单词
+%%%G cndicksonph.txt=必学迪克生短语词组=462词组,提升英文程度必学的迪克生Dickson英文惯用语
+%%%C famouslangcn.txt=英语必学名句=40句,英语考试必学名句
+%%%D verbtensejcn.txt=不规则动词三态初中版=245词,不规则动词三态初中版
+%%%F verbtensehcn.txt=不规则动词三态高中版=503词,不规则动词三态高中版
+%%%J verbtensecn.txt=不规则动词三态大全=730词,不规则动词三态完整版
+%%%H cn_hischool360.txt=高考单词3600=3606词,高考单词3600词汇列表
+%%%H gaokao14cn.txt=高考常考单词=3360词,高考常考单词整理
+%%%B primary3.txt=小学3年级=250词,英文单词列表
+%%%D primary4.txt=小学4年级=50词,英文单词列表
+%%%F primary5.txt=小学5年级=750词,英文单词列表
+%%%G primary6.txt=小学6年级=1000词,英文单词列表
+%%%D juniorhigh1.txt=初中1年级=1350词,英文单词列表
+%%%F juniorhigh2.txt=初中2年级=1695词,英文单词列表
+%%%G juniorhigh3.txt=初中3年级=2099词,英文单词列表
+%%%F hschfrequencycn.txt=高考高频率单词=1498词,高考高频率单词
+%%%G seniorhigh1.txt=高中1年级=2992词,英文单词列表
+%%%I seniorhigh2.txt=高中2年级=4491词,英文单词列表
+%%%K seniorhigh3.txt=高中3年级=5991词,英文单词列表
+%%%F latinverb54.txt=字根必背动词=233词,高考必背拉丁字根英文动词54组
+%%%G vocationalhigh1.txt=中专中职1年级=2592词,英文单词列表
+%%%H vocationalhigh2.txt=中专中职2年级=3292词,英文单词列表
+%%%I vocationalhigh3.txt=中专中职3年级=3991词,英文单词列表
+%%$K institute1.txt=专科1年级=4991词,英文单词列表
+%%$L institute2.txt=专科2年级=5991词,英文单词列表
+%%$M institute3.txt=专科3年级=6990词,英文单词列表
+%%$M college1.txt=本科1年级=6990词,英文单词列表
+%%$N college2.txt=本科2年级=7990词,英文单词列表
+%%$O college3.txt=本科3年级=8989词,英文单词列表
+%%$P college4.txt=本科4年级=9988词,英文单词列表
+%%%F cn4grade.txt=四级必背词汇=2662词,英语四级必背重点词汇
+%%%H cn6grade.txt=六级高频词汇=2221词,英语六级高频词汇
+%%%I cn_phrase1.txt=大学英语六级常用短语=371短语,整理大学英语六级常用词组
+%%%J cn_phrase2.txt=考研英语常考短语=384短语,整理考研英语常考词语的固定搭配
+%%%Q cn_shortphrase.txt=实用英语短语大全=2051短语,整理高考必考的实用英语短语
+%%%F freqadjcn.txt=常用形容词=162词,英文常用形容词单词列表
+%%%L gre66.txt=GRE词汇=6669词,极品GRE红宝书词汇
+%%%G toef_often_appear.txt=托福常考字=588字,TOEFL常考单字
+%%%K ielts45.txt=雅思词汇=4547词,雅思词汇精选
+%%%O ieltsyasi14cn.txt=雅思常考单词=7663词,最新雅思常考单词整理
+%%%I toefl29.txt=TOEFL词汇精选=2912词,TOEFL词汇精选
+%%%H basictoelf.txt=TOEFL核心词汇=2132词,TOEFL核心词汇21天突破
+%%%F toeic1.txt=多益单字基础=390词,TOEIC基础单字
+%%%I toeicee.txt=多益单词整理=2570词,TOEIC英英单词整理
+%%%C cnqnotu.txt=Q后面不接U的英文单词=71词,Q的后面经常会接上U,但其中仍有些例外
+%%%A cnengcharhistory.txt=英文二十六个字母的来历=26词,英文字母的由来?最早发源于哪边呢?又是有甚么典故呢?
+%%%A cnlongwords.txt=最恐怖的十一个英文长单词=11词,英文最长的单词,不是人背的,太可怕了
+%%%B collocation25cn.txt=常用搭配词=30词, 外语学习中的常用搭配词
+%%%C readincorrect.txt=常念错的单词=50词,50个工程师最常念错的英文单词
+%%%E cn_beauty.txt=最美的七十个英语单词=70词,英国文化协会票选出七十个最美丽的英文单词
+%%%F fifteen_pwords.txt=15个藏龙卧虎的单词=15词,学习这15个字内的字根就可推广到15000单词
+%%%B yearanimal.txt=十二生肖=12词,十二生肖英译
+%%%B aflightcn.txt=乘飞机=50词, 乘飞机时词汇
+%%%F travel_cn.txt=旅游词汇=313字,旅游常用英文单词
+%%%C clothescn.txt=服饰词汇=128词,服饰词汇
+%%%G sewingcn.txt=针线词汇=353词,针线工厂词汇
+%%%D cncalculator.txt=微积分常用述语=225词,微积分常用述语中英文对照
+%%%D cntsmc250.txt=TSMC常用词汇250=249词,TSMC常用词汇250
+%%%F cnbasicearth.txt=地球科学=200词,基础英语之地球科学词汇
+%%%H cnbasicscience.txt=自然科学=454词,基础英语之生物,物理,化学词汇
+%%%R cn_animalname.txt=英汉动物学名词=6555词,英汉动物学名词中英文对照
+%%%R cn_plantname.txt=英汉植物学名词=3222词,英汉植物学名词中英文对照
+%%%G cnmathematics.txt=数学词汇=305词,基础英语之数学词汇
+%%%R cn_mathname.txt=英汉数学名词=8700词,英汉数学名词中英文对照
+%%%G cnfamilylife.txt=家庭生活=68词,基础英语之家庭生活
+%%%F cnschoollife.txt=校园生活=89词,基础英语之校园生活
+%%%C cnsociallife.txt=社会生活=131词,基础英语之社会生活
+%%%E cninfoword.txt=信息名词=871词,电子信息专有名词
+%%%D cnjob.txt=职业名称=203词,中英文职业名称
+%%%A exercise.txt=运动名称=46词,中英文运动名称
+%%%D electriccn.txt=电器用品=152词,电器用品词汇
+%%%C cngolfterm.txt=高尔夫球常用术语=31词,高尔夫球常用术语中英文对照
+%%%D chinafood.txt=地方小吃=86词,地方常用小吃名称
+%%%E cngreens.txt=蔬菜的英文名称=181词,蔬菜的英文名称
+%%%E cnrhythm.txt=乐团常用术语=67词,乐团常用术语中英文对照
+%%%S getlostcn.txt=英文吵架用句=110句,英文吵架时不能不会的句子
+%%%P hsch_heritage100.txt=美国高中生的检验单词=100词,这是美国Heritage词典精心编辑的100个单词对高中毕业生英文水平是一个很好的评判标准
+%%%M uwl_lvl1.txt=大学先修1=81词,University Word List level 1
+%%%M uwl_lvl2.txt=大学先修2=86词,University Word List level 2
+%%%M uwl_lvl3.txt=大学先修3=75词,University Word List level 3
+%%%M uwl_lvl4.txt=大学先修4=78词,University Word List level 4
+%%%M uwl_lvl5.txt=大学先修5=70词,University Word List level 5
+%%%M uwl_lvl6.txt=大学先修6=77词,University Word List level 6
+%%%M uwl_lvl7.txt=大学先修7=77词,University Word List level 7
+%%%M uwl_lvl8.txt=大学先修8=62词,University Word List level 8
+%%%M uwl_lvl9.txt=大学先修9=113词,University Word List level 9
+%%%M uwl_lvl10.txt=大学先修10=89词,University Word List level 10
