@@ -1,0 +1,15 @@
+accordingly=adv.因此
+approach=v.接近,著手處理;n.接近,方法
+brief=adj.短暫的;n.要點,案情摘要
+annual=adj.年度的;n.一年,年鑑
+constantly=adv.時常地,持續不斷
+decade=n.十年(期間)
+entire=adj.全部的,完全的
+immediate=adj.直接的,目前的,緊急的立即的
+initial=adj.開始的,最初的
+leisurely=adj.adv.從容的(地),悠閒的(地)
+priority=n.優先事項,首要之務
+sequence=n.連續,順序,一連串
+series=n.連續,一系列
+span=n.期間,跨過
+ultimately=adv.最後
