@@ -1,0 +1,17 @@
+snowy=adj.下雪的
+take a look=v.phr.看一下
+remind=v.使…想起
+a large number of=phr.許多的
+wood=n.木材
+seed=n.種子
+Lantern Festival=n.元宵節
+Dragon-boat Festival=n.端午節
+Ghost Festival=n.中元節
+died=v.死亡
+traffic=n.交通
+scene=n.景色
+railway=n.鐵路
+rope=n.繩索
+drop=v.掉落
+blew=v.吹
+moment=n.時刻
