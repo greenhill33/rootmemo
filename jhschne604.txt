@@ -1,0 +1,13 @@
+mistake=n.錯誤
+somewhere=adv.某地
+gas=n.汽油,瓦斯
+excuse=n.理由,藉口
+poem=n.詩
+cloud=n.雲
+float=v.漂浮
+aloud=adv.大聲地
+repeat=v.重複
+puddle=n.水坑
+peaceful=adj.寧靜的
+splash=n.濺水(聲)
+lane=n.巷,小路
