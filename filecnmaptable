@@ -1,5 +1,5 @@
 %%%A twochar.txt=二个字母的英文单词=52词,整理二个字母的英文单词
-%%%A riddles28_en.txt=riddles=28词,脑筋急转弯英文题目,猜英文单字
+%%%A riddles28_en.txt=riddles=28词,脑筋急转弯英文题目，猜英文单字
 %%%G cndicksonph.txt=必学迪克生短语词组=462词组,提升英文程度必学的迪克生Dickson英文惯用语
 %%%C famouslangcn.txt=英语必学名句=40句,英语考试必学名句
 %%%D verbtensejcn.txt=不规则动词三态初中版=245词,不规则动词三态初中版
@@ -46,11 +46,11 @@
 %%%H newtoeicl5_tw.txt=新多益高频单词=1813词,新多益 TOEIC 考试高频率单词、片语
 %%%D bulats_level1_tw.txt=剑桥英语一=236字,剑桥国际英语教程第一级 (2017)
 %%%D bulats_bussword_tw.txt=剑桥博思职场英检=205字,剑桥博思Bulats职场英检单字簿
-%%%F cambridg_ket_tw.txt=剑桥英检KET=1519字,KET(Key English Test)剑桥初级英语认证,高中入学申请(同CEF-A2级) (2017网友分享)
-%%%I cambridg_pet_tw.txt=剑桥英检PET=2948字,PET(Preliminary English Test)剑桥中级英语认证,大学入学申请(同CEF-B1级) (2017网友分享)
-%%%C cnqnotu.txt=Q后面不接U的英文单词=71词,Q的后面经常会接上U,但其中仍有些例外
+%%%F cambridg_ket_tw.txt=剑桥英检KET=1519字,KET(Key English Test)剑桥初级英语认证，高中入学申请(同CEF-A2级) (2017网友分享)
+%%%I cambridg_pet_tw.txt=剑桥英检PET=2948字,PET(Preliminary English Test)剑桥中级英语认证，大学入学申请(同CEF-B1级) (2017网友分享)
+%%%C cnqnotu.txt=Q后面不接U的英文单词=71词,Q的后面经常会接上U-但其中仍有些例外
 %%%A cnengcharhistory.txt=英文二十六个字母的来历=26词,英文字母的由来?最早发源于哪边呢?又是有甚么典故呢?
-%%%A cnlongwords.txt=最恐怖的十一个英文长单词=11词,英文最长的单词,不是人背的,太可怕了
+%%%A cnlongwords.txt=最恐怖的十一个英文长单词=11词,英文最长的单词-不是人背的-太可怕了
 %%%B collocation25cn.txt=常用搭配词=30词, 外语学习中的常用搭配词
 %%%C readincorrect.txt=常念错的单词=50词,50个工程师最常念错的英文单词
 %%%E cn_beauty.txt=最美的七十个英语单词=70词,英国文化协会票选出七十个最美丽的英文单词
@@ -66,7 +66,7 @@
 %%%D cncalculator.txt=微积分常用述语=225词,微积分常用述语中英文对照
 %%%D cntsmc250.txt=TSMC常用词汇250=249词,TSMC常用词汇250
 %%%F cnbasicearth.txt=地球科学=200词,基础英语之地球科学词汇
-%%%H cnbasicscience.txt=自然科学=454词,基础英语之生物,物理,化学词汇
+%%%H cnbasicscience.txt=自然科学=454词,基础英语之生物、物理、化学词汇
 %%%R cn_animalname.txt=英汉动物学名词=6555词,英汉动物学名词中英文对照
 %%%R cn_plantname.txt=英汉植物学名词=3222词,英汉植物学名词中英文对照
 %%%G cnmathematics.txt=数学词汇=305词,基础英语之数学词汇
