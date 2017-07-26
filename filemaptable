@@ -49,6 +49,8 @@
 %%%J tw_cves_3rd.txt=商教英檢三級=1211字,商業職業教育英檢三級參考字表 (2016)
 %%%D bulats_level1_tw.txt=劍橋英語一=236字,劍橋國際英語教程第一級 (2017)
 %%%D bulats_bussword_tw.txt=劍橋博思職場英檢=205字,劍橋博思Bulats職場英檢單字簿 (2017)
+%%%F cambridg_ket_tw.txt=劍橋英檢KET=1519字,KET(Key English Test)劍橋初級英語認證,高中入學申請(同CEF-A2級) (2017網友分享)
+%%%I cambridg_pet_tw.txt=劍橋英檢PET=2948字,PET(Preliminary English Test)劍橋中級英語認證,大學入學申請(同CEF-B1級) (2017網友分享)
 %%%G bascountry.txt=國考必背單字=854個字,國考必背英文單字列表 (2015)
 %%%E user_YahuiChang_country_tw.txt=國考英文單字=2755個字,國考英文單字 高、普、初、特考三四五等 (2017網友分享)
 %%%D user_aa97_police500.txt=警用500=509個字,警用500英文單字 (2017網友分享)
