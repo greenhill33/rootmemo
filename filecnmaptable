@@ -62,9 +62,12 @@
 %%%F travel_cn.txt=旅游词汇=313字,旅游常用英文单词
 %%%C clothescn.txt=服饰词汇=128词,服饰词汇
 %%%G sewingcn.txt=针线词汇=353词,针线工厂词汇
-%%%D cold_dialy_tw.txt=日常生活=227字,冷门单字王日常生活篇
-%%%D cold_city_tw.txt=生活城市=205字,冷门单字王生活城市篇
-%%%D cold_travel_tw.txt=观光旅游=115字,冷门单字王观光旅游篇
+%%%D cold_dialy_tw.txt=日常生活=227词,冷门单字王日常生活篇
+%%%D cold_city_tw.txt=生活城市=205词,冷门单字王生活城市篇
+%%%D cold_travel_tw.txt=观光旅游=115词,冷门单字王观光旅游篇
+%%%C nina_hotel_accommodation_tw.txt=饭店住宿=167词,旅行英文_饭店住宿篇 (2018 Nina网友分享)
+%%%D nina_air_traffic_tw.txt=航空交通=307词,旅行英文_航空交通篇 (2018 Nina网友分享)
+%%%D nina_money_trading_tw.txt=金钱买卖=398词,旅行英文_金钱买卖篇 (2018 Nina网友分享)
 %%%D cncalculator.txt=微积分常用述语=225词,微积分常用述语中英文对照
 %%%D cntsmc250.txt=TSMC常用词汇250=249词,TSMC常用词汇250
 %%%F cnbasicearth.txt=地球科学=200词,基础英语之地球科学词汇
