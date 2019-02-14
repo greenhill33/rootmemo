@@ -19,6 +19,6 @@ threat=n.威脅;恐嚇
 tolerant=adj.容忍的
 upset=v.擾亂…的心情
 vex=v.使苦惱;使憤怒
-manu=adj.容易受傷的;(對…)有弱點的
+vulnerable=adj.容易受傷的;(對…)有弱點的
 resentment=n.憤恨;怨恨
 enthusiastic=adj.熱心的;滿腔熱忱的;熱烈的
