@@ -1,9 +1,9 @@
 local=adj.當地的,本地的;n.[C](usu.pl.)當地居民,本地人
-nod=vt.點頭
+nod=vt.(nodded | nodded | nodding)點頭
 frown=vi.皺眉
 throughout=prep.遍及,遍佈;從頭到尾,自始至終
 gesture=n.[C]手勢,姿勢
-vary=vi.不同
+vary=vi.(varied | varied | varying)不同
 various=adj.各式各樣的
 variety=n.sing.種種,各式各樣
 positive=adj.同意的,表示贊同的;樂觀的,積極的
