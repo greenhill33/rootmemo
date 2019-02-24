@@ -1,6 +1,6 @@
 praise=vt.讚揚,稱讚;n.[U]讚揚,稱讚
 tough=adj.堅強的,不屈不撓的;艱難的,棘手的
-overcome=vt.克服
+overcome=vt.(overcame | overcome | overcoming)克服
 pile=n.[C](usu.pl.)(infml.)許多,大量;(一)堆;vt.堆積,疊放
 childhood=n.[U]童年時期,童年
 lung=n.[C]肺
