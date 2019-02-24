@@ -1,6 +1,6 @@
 ability=n.[C]能力
 heal=vt.癒合,痊癒;治癒,化解(心理問題)
-percent=n.[C](pl.)百分之一
+percent=n.[C](pl.~)百分之一
 percentage=n.[C]百分比,百分率
 emotion=n.[C]感情,情緒
 emotional=adj.情感上的
@@ -18,7 +18,8 @@ muscle=n.[C]肌肉
 complicated=adj.複雜的
 complicate=vt.使複雜化
 equipment=n.[U]設備,器材
-equip=vt.配備,裝備
+equip=vt.(equipped | equipped | equipping)配備,裝備
+afterward=adv.後來,之後
 provide=vt.提供,給予
 rate=n.[C]速率
 normal=n.[U]正常;adj.正常的
