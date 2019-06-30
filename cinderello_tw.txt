@@ -47,7 +47,6 @@ spatula=n.抹刀
 instant=adj.瞬間的
 transform=v.轉變
 dress=v.穿著
-instant=adj.瞬間
 fancy=adj.美好的
 recognize=v.認出
 won=v.贏得(win的過去式)
