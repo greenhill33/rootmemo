@@ -45,6 +45,9 @@
 %%%F toeic1.txt=多益单字基础=390词,TOEIC基础单字
 %%%I toeicee.txt=多益单词整理=2570词,TOEIC英英单词整理
 %%%H newtoeicl5_tw.txt=新多益高频单词=1813词,新多益 TOEIC 考试高频率单词、片语
+%%%C time01_tw.txt=TIME简易=374词,TIME单挑字汇简易单词(庄老师整理 2020)
+%%%C time02_tw.txt=TIME普通=422词,TIME单挑字汇普通单词(庄老师整理 2020)
+%%%C time03_tw.txt=TIME进阶=251词,TIME单挑字汇进阶单词(庄老师整理 2020)
 %%%D bulats_level1_tw.txt=剑桥英语一=236字,剑桥国际英语教程第一级 (2017)
 %%%D bulats_bussword_tw.txt=剑桥博思职场英检=205字,剑桥博思Bulats职场英检单字簿
 %%%F cambridg_ket_tw.txt=剑桥英检KET=1519字,KET(Key English Test)剑桥初级英语认证，高中入学申请(同CEF-A2级) (2017网友分享)
