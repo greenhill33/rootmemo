@@ -49,6 +49,9 @@
 %%%F toeic1.txt=多益單字基礎=390字,TOEIC基礎單字
 %%%I toeicee.txt=多益單字整理=2570字,TOEIC英英單字整理
 %%%H newtoeicl5_tw.txt=新多益高頻單字=1813字,新多益 TOEIC 考試高頻率單字、片語
+%%%C time01_tw.txt=TIME簡易=374個字,TIME單挑字彙簡易單字(莊老師整理 2020)
+%%%C time02_tw.txt=TIME普通=422個字,TIME單挑字彙普通單字(莊老師整理 2020)
+%%%C time03_tw.txt=TIME進階=251個字,TIME單挑字彙進階單字(莊老師整理 2020)
 %%%D bulats_level1_tw.txt=劍橋英語一=236字,劍橋國際英語教程第一級
 %%%D bulats_bussword_tw.txt=劍橋博思職場英檢=205字,劍橋博思Bulats職場英檢單字簿
 %%%F cambridg_ket_tw.txt=劍橋英檢KET=1519字,KET(Key English Test)劍橋初級英語認證，高中入學申請(同CEF-A2級) (網友分享)
