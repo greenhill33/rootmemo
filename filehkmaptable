@@ -1,197 +1,213 @@
-%%%A twochar.txt=二個字母的英文單字=52字,整理二個字母的英文單字
-%%%A riddles28_en.txt=riddles=28字,腦筋急轉彎英文題目，猜英文單字
-%%%E tw_phrase2.txt=英語考試常考片語=384片語,整理英語考試常考片語的固定搭配
-%%%G twdicksonph.txt=必學狄克森片語=462片語,提升英文程度必學的狄克森Dickson英文慣用語
-%%%B famouslangtw.txt=英語必學名句=40句,英語考試必學名句
-%%%C verbtensejtw.txt=不規則動詞三態初中版=245個字,不規則動詞三態初中版(現在、過去、過去分詞)(莊老師整理)
-%%%D verbtensehtw.txt=不規則動詞三態高中版=503個字,不規則動詞三態高中版(現在、過去、過去分詞)(莊老師整理)
-%%%F verbtensetw.txt=不規則動詞三態大全=730個字,不規則動詞三態完整版(現在、過去、過去分詞)(莊老師整理)
-%%%B primary3.txt=小學3年級=250個字,英文單字大賽列表
-%%%D primary4.txt=小學4年級=500個字,英文單字大賽列表
-%%%F primary5.txt=小學5年級=750個字,英文單字大賽列表
-%%%G primary6.txt=小學6年級=1000個字,英文單字大賽列表
-%%%D juniorhigh1.txt=中學1年級=1350個字,英文單字大賽列表
-%%%F juniorhigh2.txt=中學2年級=1695個字,英文單字大賽列表
-%%%G juniorhigh3.txt=中學3年級=2099個字,英文單字大賽列表
-%%%F high2000_3000.txt=考大學2千~3千=1083個字,考大學2000~3000單字列表
-%%%F high3000_4000.txt=考大學3千~4千=1107個字,考大學3000~4000單字列表
-%%%F high4000_5000.txt=考大學4千~5千=1097個字,考大學4000~5000單字列表
-%%%F high5000_6000.txt=考大學5千~6千=1097個字,考大學5000~6000單字列表
-%%%F high6000_7000.txt=考大學6千~7千=1097個字,考大學6000~7000單字列表
-%%%D hschfrequencytw.txt=大學考試高頻率單字=1498個字,大學考試高頻率單字(莊老師整理)
-%%%H gaokao14cn.txt=高考常考單字=3360字,高考常考單字整理
-%%%D hsconfuse_tw.txt=容易混淆單詞=154字,高中英檢容易混淆的單詞對照
-%%%G seniorhigh1.txt=高中1年級=2992個字,英文單字大賽列表
-%%%I seniorhigh2.txt=高中2年級=4491個字,英文單字大賽列表
-%%%K seniorhigh3.txt=高中3年級=5991個字,英文單字大賽列表
-%%%F latinverb54.txt=字根必背動詞=233字,高中必背拉丁字根英文動詞組
-%%%G vocationalhigh1.txt=高職1年級=2592個字,英文單字大賽列表
-%%%H vocationalhigh2.txt=高職2年級=3292個字,英文單字大賽列表
-%%%I vocationalhigh3.txt=高職3年級=3991個字,英文單字大賽列表
-%%$K institute1.txt=技術學院1年級=4991個字,英文單字大賽列表
-%%$L institute2.txt=技術學院2年級=5991個字,英文單字大賽列表
-%%$M institute3.txt=技術學院3年級=6990個字,英文單字大賽列表
-%%$N institute4.txt=技術學院4年級=7990個字,英文單字大賽列表
-%%$M college1.txt=大學1年級=6990個字,英文單字大賽列表
-%%$N college2.txt=大學2年級=7990個字,英文單字大賽列表
-%%$O college3.txt=大學3年級=8989個字,英文單字大賽列表
-%%$P college4.txt=大學4年級=9988個字,英文單字大賽列表
-%%%I tw_phrase1.txt=大學英語常用片語=371片語,整理大學英語常用片語
-%%%Q tw_shortphrase.txt=實用英語片語大全=2051片語,整理實用英語片語大全
-%%%G bascountry.txt=公家考必背單字=854個字,公家考必背英文單字列表
-%%%F freqadjtw.txt=常用形容詞=162個字,英文常用形容詞單字列表
-%%%L gre66.txt=GRE極品單字=6669字,極品GRE紅寶書單字
-%%%G toef_often_appear.txt=托福常考字=588字,TOEFL常考單字
-%%%I toefl29.txt=托福單字精選=2912字,TOEFL單字精選
-%%%H basictoelf.txt=TOEFL核心單字=2132字,TOEFL核心單字21天突破
-%%%J ielts45.txt=雅思單字精選=4547字,雅思單字精選
-%%%O ieltsyasi14tw.txt=雅思常考單字=7621字,最新雅思常考單字整理
-%%%F toeic1.txt=多益單字基礎=390字,TOEIC基礎單字
-%%%I toeicee.txt=多益單字整理=2570字,TOEIC英英單字整理
-%%%H newtoeicl5_tw.txt=新多益高頻單字=1813字,新多益 TOEIC 考試高頻率單字、片語
-%%%C time01_tw.txt=TIME簡易=374個字,TIME單挑字彙簡易單字(莊老師整理 2020)
-%%%C time02_tw.txt=TIME普通=422個字,TIME單挑字彙普通單字(莊老師整理 2020)
-%%%C time03_tw.txt=TIME進階=251個字,TIME單挑字彙進階單字(莊老師整理 2020)
-%%%D bulats_level1_tw.txt=劍橋英語一=236字,劍橋國際英語教程第一級
-%%%D bulats_bussword_tw.txt=劍橋博思職場英檢=205字,劍橋博思Bulats職場英檢單字簿
-%%%F cambridg_ket_tw.txt=劍橋英檢KET=1519字,KET(Key English Test)劍橋初級英語認證，高中入學申請(同CEF-A2級) (網友分享)
-%%%I cambridg_pet_tw.txt=劍橋英檢PET=2948字,PET(Preliminary English Test)劍橋中級英語認證，大學入學申請(同CEF-B1級) (網友分享)
-%%%C twqnotu.txt=Q後面不接U的單字=71個字,字母Q的後面經常會接上字母U，但其中仍有些例外
-%%%A twengcharhistory.txt=英文二十六個字母的來歷=26個字,英文字母的由來?最早發源於哪邊呢?又是有甚麼典故呢?
-%%%A twlongwords.txt=最恐怖的十一個英文長單字=11字,英文最長的單字，不是人背的，太可怕了
-%%%D twcalculator.txt=微積分常用術語=225字,微積分常用術語中英文對照
-%%%B collocation25tw.txt=常用搭配詞=30詞, 外語學習中的常用搭配詞
-%%%C readincorrect.txt=常唸錯的單字=50字,50個工程師最常唸錯的英文單字
-%%%E tw_beauty.txt=最美的七十個英語單字=70字,英國文化協會票選出七十個最美麗的英文單字
-%%%F fifteen_pwords.txt=15個臥虎藏龍的單字=15字,學習這15個字內的字根就可推廣到15000單字 (ref. pennington)
-%%%A cinderello_tw.txt=英文繪本Cinderello=83字,英文繪本Cinderello單字列表(莊老師整理)
-%%%B yearanimal.txt=十二生肖=12字,十二生肖英譯
-%%%B zodiacsigns_tw.txt=星座與行星=65字,十二星座與九大行星
-%%%B aflighttw.txt=搭飛機=50字, 搭飛機時詞彙
-%%%F travel_tw.txt=旅遊詞彙=313字,旅遊常用英文單字
-%%%C clothestw.txt=服飾詞彙=128字,服裝詞彙
-%%%G sewingtw.txt=針線詞彙=353字,針線工廠詞彙
-%%%D twtsmc250.txt=TSMC常用單字250=249字,TSMC常用單字，參考人事部
-%%%D cold_dialy_tw.txt=日常生活=227字,冷門單字王日常生活篇
-%%%D cold_city_tw.txt=生活城市=205字,冷門單字王生活城市篇
-%%%D cold_travel_tw.txt=觀光旅遊=115字,冷門單字王觀光旅遊篇
-%%%C nina_hotel_accommodation_tw.txt=飯店住宿=167字,旅行英文_飯店住宿篇 (Nina網友分享)
-%%%D nina_air_traffic_tw.txt=航空交通=307字,旅行英文_航空交通篇 (Nina網友分享)
-%%%D nina_money_trading_tw.txt=金錢買賣=398字,旅行英文_金錢買賣篇 (Nina網友分享)
-%%%D twjob.txt=職業名稱=203字,中英文職業名稱
-%%%A exercise.txt=運動名稱=46字,中英文運動名稱
-%%%C twgolfterm.txt=高爾夫球常用術語=31字,高爾夫球常用術語中英文對照
-%%%F twbasicearth.txt=地球科學=200字,基礎英語之地球科學單字
-%%%H twbasicscience.txt=自然科學=454字,基礎英語之生物、物理、化學單字
-%%%R tw_animalname.txt=英漢動物學名詞=6555字,英漢動物學名詞中英文對照
-%%%R tw_plantname.txt=英漢植物學名詞=3222字,英漢植物學名詞中英文對照
-%%%G twmathematics.txt=數學單字=305字,基礎英語之數學單字
-%%%R tw_mathname.txt=英漢數學名詞=8700字,英漢數學名詞中英文對照
-%%%G twfamilylife.txt=家庭生活=68字,基礎英語之家庭生活
-%%%F twschoollife.txt=校園生活=89字,基礎英語之校園生活
-%%%C twsociallife.txt=社會生活=131字,基礎英語之社會生活
-%%%E infoword.txt=資訊名詞=871字,電子資訊專有名詞
-%%%C electrictw.txt=家用電器=152字, 家用電器詞彙
-%%%A TaiwanFood.txt=小吃名稱=109字,常用小吃名稱
-%%%E twgreens.txt=蔬菜的英文名稱=181字,蔬菜的英文名稱
-%%%B chinese_medicine_tw.txt=傳統中藥=26字,傳統中藥英語 Traditional Chinese Medicine
-%%%F cn4grade.txt=大陸四級必背單字=2662字,英語四級必背重點單字
-%%%H cn6grade.txt=大陸六級高頻單字=2221字,英語六級高頻率單字
-%%%F twrhythm.txt=樂團常用術語=67字,樂團常用術語中英文對照
-%%%P voa_basic_tw.txt=VOA常用單字=1510字,VOA常用單字整理(英英)
-%%%B younglangtw.txt=年輕人的世說新語=101句,[取自網路]7-8年級生的密語，罵人不帶髒字
-%%%S getlosttw.txt=英文吵架用句=110句,英文吵架時不能不會的句子
-%%%T sent444_tw.txt=英文口語=444句,會這444句英文片語，口語沒問題
-%%%P hsch_heritage100.txt=美國高中生的檢驗單詞=100字,這是美國Heritage詞典精心編輯的100個單詞對高中畢業生英文水平是一個很好的評判標準
-%%%A areyoupopular.txt=Are you popular=27字,高一第1課 Are you popular
-%%%M uwl_lvl1.txt=大學先修1=81字,教育部 University Word List level 1
-%%%M uwl_lvl2.txt=大學先修2=86字,教育部 University Word List level 2
-%%%M uwl_lvl3.txt=大學先修3=75字,教育部 University Word List level 3
-%%%M uwl_lvl4.txt=大學先修4=78字,教育部 University Word List level 4
-%%%M uwl_lvl5.txt=大學先修5=70字,教育部 University Word List level 5
-%%%M uwl_lvl6.txt=大學先修6=77字,教育部 University Word List level 6
-%%%M uwl_lvl7.txt=大學先修7=77字,教育部 University Word List level 7
-%%%M uwl_lvl8.txt=大學先修8=62字,教育部 University Word List level 8
-%%%M uwl_lvl9.txt=大學先修9=113字,教育部 University Word List level 9
-%%%M uwl_lvl10.txt=大學先修10=89字,教育部 University Word List level 10
-%%%D greb01.txt=GRE01核心=117字,GRE紅寶書核心字彙之1 (莊朝鈞老師整理)
-%%%D greb02.txt=GRE02核心=123字,GRE紅寶書核心字彙之2 (莊朝鈞老師整理)
-%%%D greb03.txt=GRE03核心=146字,GRE紅寶書核心字彙之3 (莊朝鈞老師整理)
-%%%D greb04.txt=GRE04核心=135字,GRE紅寶書核心字彙之4 (莊朝鈞老師整理)
-%%%D greb05.txt=GRE05核心=144字,GRE紅寶書核心字彙之5 (莊朝鈞老師整理)
-%%%D greb06.txt=GRE06核心=153字,GRE紅寶書核心字彙之6 (莊朝鈞老師整理)
-%%%D greb07.txt=GRE07核心=143字,GRE紅寶書核心字彙之7 (莊朝鈞老師整理)
-%%%D greb08.txt=GRE08核心=126字,GRE紅寶書核心字彙之8 (莊朝鈞老師整理)
-%%%D greb09.txt=GRE09核心=145字,GRE紅寶書核心字彙之9 (莊朝鈞老師整理)
-%%%D greb10.txt=GRE10核心=142字,GRE紅寶書核心字彙之10 (莊朝鈞老師整理)
-%%%D greb11.txt=GRE11核心=142字,GRE紅寶書核心字彙之11 (莊朝鈞老師整理)
-%%%D greb12.txt=GRE12核心=159字,GRE紅寶書核心字彙之12 (莊朝鈞老師整理)
-%%%D greb13.txt=GRE13核心=146字,GRE紅寶書核心字彙之13 (莊朝鈞老師整理)
-%%%D greb14.txt=GRE14核心=138字,GRE紅寶書核心字彙之14 (莊朝鈞老師整理)
-%%%D greb15.txt=GRE15核心=156字,GRE紅寶書核心字彙之15 (莊朝鈞老師整理)
-%%%D greb16.txt=GRE16核心=165字,GRE紅寶書核心字彙之16 (莊朝鈞老師整理)
-%%%D greb17.txt=GRE17核心=176字,GRE紅寶書核心字彙之17 (莊朝鈞老師整理)
-%%%D greb18.txt=GRE18核心=167字,GRE紅寶書核心字彙之18 (莊朝鈞老師整理)
-%%%D greb19.txt=GRE19核心=145字,GRE紅寶書核心字彙之19 (莊朝鈞老師整理)
-%%%D greb20.txt=GRE20核心=148字,GRE紅寶書核心字彙之20 (莊朝鈞老師整理)
-%%%E greb21.txt=GRE21核心=134字,GRE紅寶書核心字彙之21 (莊朝鈞老師整理)
-%%%E greb22.txt=GRE22核心=163字,GRE紅寶書核心字彙之22 (莊朝鈞老師整理)
-%%%E greb23.txt=GRE23核心=163字,GRE紅寶書核心字彙之23 (莊朝鈞老師整理)
-%%%E greb24.txt=GRE24核心=168字,GRE紅寶書核心字彙之24 (莊朝鈞老師整理)
-%%%E greb25.txt=GRE25核心=165字,GRE紅寶書核心字彙之25 (莊朝鈞老師整理)
-%%%E greb26.txt=GRE26核心=151字,GRE紅寶書核心字彙之26 (莊朝鈞老師整理)
-%%%E greb27.txt=GRE27核心=157字,GRE紅寶書核心字彙之27 (莊朝鈞老師整理)
-%%%E greb28.txt=GRE28核心=148字,GRE紅寶書核心字彙之28 (莊朝鈞老師整理)
-%%%E greb29.txt=GRE29核心=149字,GRE紅寶書核心字彙之29 (莊朝鈞老師整理)
-%%%E greb30.txt=GRE30核心=153字,GRE紅寶書核心字彙之30 (莊朝鈞老師整理)
-%%%E greb31.txt=GRE31核心=161字,GRE紅寶書核心字彙之31 (莊朝鈞老師整理)
-%%%E greb32.txt=GRE32核心=177字,GRE紅寶書核心字彙之32 (莊朝鈞老師整理)
-%%%E greb33.txt=GRE33核心=179字,GRE紅寶書核心字彙之33 (莊朝鈞老師整理)
-%%%E greb34.txt=GRE34核心=170字,GRE紅寶書核心字彙之34 (莊朝鈞老師整理)
-%%%E greb35.txt=GRE35核心=143字,GRE紅寶書核心字彙之35 (莊朝鈞老師整理)
-%%%E greb36.txt=GRE36核心=177字,GRE紅寶書核心字彙之36 (莊朝鈞老師整理)
-%%%E greb37.txt=GRE37核心=169字,GRE紅寶書核心字彙之37 (莊朝鈞老師整理)
-%%%E greb38.txt=GRE38核心=168字,GRE紅寶書核心字彙之38 (莊朝鈞老師整理)
-%%%E greb39.txt=GRE39核心=83字,GRE紅寶書核心字彙之39 (莊朝鈞老師整理)
-%%%F greb40.txt=GRE40最新=123字,GRE紅寶書最新字彙之1 (莊朝鈞老師整理)
-%%%F greb41.txt=GRE41最新=123字,GRE紅寶書最新字彙之2 (莊朝鈞老師整理)
-%%%F greb42.txt=GRE42最新=124字,GRE紅寶書最新字彙之3 (莊朝鈞老師整理)
-%%%F greb43.txt=GRE43最新=137字,GRE紅寶書最新字彙之4 (莊朝鈞老師整理)
-%%%F greb44.txt=GRE44最新=138字,GRE紅寶書最新字彙之5 (莊朝鈞老師整理)
-%%%F greb45.txt=GRE45最新=128字,GRE紅寶書最新字彙之6 (莊朝鈞老師整理)
-%%%F greb46.txt=GRE46最新=136字,GRE紅寶書最新字彙之7 (莊朝鈞老師整理)
-%%%F greb47.txt=GRE47最新=138字,GRE紅寶書最新字彙之8 (莊朝鈞老師整理)
-%%%F greb48.txt=GRE48最新=133字,GRE紅寶書最新字彙之9 (莊朝鈞老師整理)
-%%%F greb49.txt=GRE49最新=139字,GRE紅寶書最新字彙之10 (莊朝鈞老師整理)
-%%%G greb50.txt=GRE50預測=181字,GRE紅寶書預測字彙 (莊朝鈞老師整理)
-%%%C toefl_01.txt=托褔字彙01=50字,TOEFL字彙之1 (莊朝鈞老師整理)
-%%%C toefl_02.txt=托褔字彙02=50字,TOEFL字彙之2 (莊朝鈞老師整理)
-%%%C toefl_03.txt=托褔字彙03=50字,TOEFL字彙之3 (莊朝鈞老師整理)
-%%%C toefl_04.txt=托褔字彙04=50字,TOEFL字彙之4 (莊朝鈞老師整理)
-%%%C toefl_05.txt=托褔字彙05=50字,TOEFL字彙之5 (莊朝鈞老師整理)
-%%%C toefl_06.txt=托褔字彙06=50字,TOEFL字彙之6 (莊朝鈞老師整理)
-%%%C toefl_07.txt=托褔字彙07=50字,TOEFL字彙之7 (莊朝鈞老師整理)
-%%%C toefl_08.txt=托褔字彙08=50字,TOEFL字彙之8 (莊朝鈞老師整理)
-%%%C toefl_09.txt=托褔字彙09=50字,TOEFL字彙之9 (莊朝鈞老師整理)
-%%%C toefl_10.txt=托褔字彙10=50字,TOEFL字彙之10 (莊朝鈞老師整理)
-%%%C toefl_11.txt=托褔字彙11=50字,TOEFL字彙之11 (莊朝鈞老師整理)
-%%%C toefl_12.txt=托褔字彙12=50字,TOEFL字彙之12 (莊朝鈞老師整理)
-%%%C toefl_13.txt=托褔字彙13=50字,TOEFL字彙之13 (莊朝鈞老師整理)
-%%%C toefl_14.txt=托褔字彙14=49字,TOEFL字彙之14 (莊朝鈞老師整理)
-%%%C toefl_15.txt=托褔字彙15=50字,TOEFL字彙之15 (莊朝鈞老師整理)
-%%%C toefl_16.txt=托褔字彙16=50字,TOEFL字彙之16 (莊朝鈞老師整理)
-%%%C toefl_17.txt=托褔字彙17=50字,TOEFL字彙之17 (莊朝鈞老師整理)
-%%%C toefl_18.txt=托褔字彙18=50字,TOEFL字彙之18 (莊朝鈞老師整理)
-%%%C toefl_19.txt=托褔字彙19=50字,TOEFL字彙之19 (莊朝鈞老師整理)
-%%%C toefl_20.txt=托褔字彙20=50字,TOEFL字彙之20 (莊朝鈞老師整理)
-%%%D toefl_21.txt=托褔字彙21=49字,TOEFL字彙之21 (莊朝鈞老師整理)
-%%%D toefl_22.txt=托褔字彙22=50字,TOEFL字彙之22 (莊朝鈞老師整理)
-%%%D toefl_23.txt=托褔字彙23=50字,TOEFL字彙之23 (莊朝鈞老師整理)
-%%%D toefl_24.txt=托褔字彙24=50字,TOEFL字彙之24 (莊朝鈞老師整理)
-%%%D toefl_25.txt=托褔字彙25=50字,TOEFL字彙之25 (莊朝鈞老師整理)
-%%%D toefl_26.txt=托褔字彙26=50字,TOEFL字彙之26 (莊朝鈞老師整理)
-%%%D toefl_27.txt=托褔字彙27=50字,TOEFL字彙之27 (莊朝鈞老師整理)
-%%%D toefl_28.txt=托褔字彙28=50字,TOEFL字彙之28 (莊朝鈞老師整理)
-%%%D toefl_29.txt=托褔字彙29=50字,TOEFL字彙之29 (莊朝鈞老師整理)
-%%%D toefl_30.txt=托褔字彙30=50字,TOEFL字彙之30 (莊朝鈞老師整理)
-%%%F toefl_0130.txt=托褔字彙集=1496字,TOEFL字彙 (莊朝鈞老師整理)
+#Frist line
+%G1A 基礎
+  %%%A twochar.txt=二個字母的英文單字=52字,整理二個字母的英文單字
+  %%%A riddles28_en.txt=riddles=28字,腦筋急轉彎英文題目，猜英文單字
+  %%%G bascountry.txt=公家考必背單字=854個字,公家考必背英文單字列表
+  %%%F freqadjtw.txt=常用形容詞=162個字,英文常用形容詞單字列表
+  %%%C twqnotu.txt=Q後面不接U的單字=71個字,字母Q的後面經常會接上字母U，但其中仍有些例外
+  %%%A twengcharhistory.txt=英文二十六個字母的來歷=26個字,英文字母的由來?最早發源於哪邊呢?又是有甚麼典故呢?
+  %%%A twlongwords.txt=最恐怖的十一個英文長單字=11字,英文最長的單字，不是人背的，太可怕了
+  %%%D twcalculator.txt=微積分常用術語=225字,微積分常用術語中英文對照
+  %%%B collocation25tw.txt=常用搭配詞=30詞, 外語學習中的常用搭配詞
+  %%%C readincorrect.txt=常唸錯的單字=50字,50個工程師最常唸錯的英文單字
+  %%%E tw_beauty.txt=最美的七十個英語單字=70字,英國文化協會票選出七十個最美麗的英文單字
+  %%%F fifteen_pwords.txt=15個臥虎藏龍的單字=15字,學習這15個字內的字根就可推廣到15000單字 (ref. pennington)
+  %%%A cinderello_tw.txt=英文繪本Cinderello=83字,英文繪本Cinderello單字列表(莊老師整理)
+  %%%B yearanimal.txt=十二生肖=12字,十二生肖英譯
+  %%%B zodiacsigns_tw.txt=星座與行星=65字,十二星座與九大行星
+  %%%B aflighttw.txt=搭飛機=50字, 搭飛機時詞彙
+  %%%F travel_tw.txt=旅遊詞彙=313字,旅遊常用英文單字
+  %%%C clothestw.txt=服飾詞彙=128字,服裝詞彙
+  %%%G sewingtw.txt=針線詞彙=353字,針線工廠詞彙
+  %%%D twtsmc250.txt=TSMC常用單字250=249字,TSMC常用單字，參考人事部
+  %%%D cold_dialy_tw.txt=日常生活=227字,冷門單字王日常生活篇
+  %%%D cold_city_tw.txt=生活城市=205字,冷門單字王生活城市篇
+  %%%D cold_travel_tw.txt=觀光旅遊=115字,冷門單字王觀光旅遊篇
+  %%%C nina_hotel_accommodation_tw.txt=飯店住宿=167字,旅行英文_飯店住宿篇 (Nina網友分享)
+  %%%D nina_air_traffic_tw.txt=航空交通=307字,旅行英文_航空交通篇 (Nina網友分享)
+  %%%D nina_money_trading_tw.txt=金錢買賣=398字,旅行英文_金錢買賣篇 (Nina網友分享)
+  %%%D twjob.txt=職業名稱=203字,中英文職業名稱
+  %%%A exercise.txt=運動名稱=46字,中英文運動名稱
+  %%%C twgolfterm.txt=高爾夫球常用術語=31字,高爾夫球常用術語中英文對照
+  %%%F twbasicearth.txt=地球科學=200字,基礎英語之地球科學單字
+  %%%H twbasicscience.txt=自然科學=454字,基礎英語之生物、物理、化學單字
+  %%%R tw_animalname.txt=英漢動物學名詞=6555字,英漢動物學名詞中英文對照
+  %%%R tw_plantname.txt=英漢植物學名詞=3222字,英漢植物學名詞中英文對照
+  %%%G twmathematics.txt=數學單字=305字,基礎英語之數學單字
+  %%%R tw_mathname.txt=英漢數學名詞=8700字,英漢數學名詞中英文對照
+  %%%G twfamilylife.txt=家庭生活=68字,基礎英語之家庭生活
+  %%%F twschoollife.txt=校園生活=89字,基礎英語之校園生活
+  %%%C twsociallife.txt=社會生活=131字,基礎英語之社會生活
+  %%%E infoword.txt=資訊名詞=871字,電子資訊專有名詞
+  %%%C electrictw.txt=家用電器=152字, 家用電器詞彙
+  %%%A TaiwanFood.txt=小吃名稱=109字,常用小吃名稱
+  %%%E twgreens.txt=蔬菜的英文名稱=181字,蔬菜的英文名稱
+  %%%B chinese_medicine_tw.txt=傳統中藥=26字,傳統中藥英語 Traditional Chinese Medicine
+  %%%F twrhythm.txt=樂團常用術語=67字,樂團常用術語中英文對照
+  %%%P voa_basic_tw.txt=VOA常用單字=1510字,VOA常用單字整理(英英)
+  %%%A areyoupopular.txt=Are you popular=27字,高一第1課 Are you popular
+
+%G1A 片語句字
+  %%%E tw_phrase2.txt=英語考試常考片語=384片語,整理英語考試常考片語的固定搭配
+  %%%G twdicksonph.txt=必學狄克森片語=462片語,提升英文程度必學的狄克森Dickson英文慣用語
+  %%%B famouslangtw.txt=英語必學名句=40句,英語考試必學名句
+  %%%I tw_phrase1.txt=大學英語常用片語=371片語,整理大學英語常用片語
+  %%%Q tw_shortphrase.txt=實用英語片語大全=2051片語,整理實用英語片語大全
+  %%%B younglangtw.txt=年輕人的世說新語=101句,[取自網路]7-8年級生的密語，罵人不帶髒字
+  %%%S getlosttw.txt=英文吵架用句=110句,英文吵架時不能不會的句子
+  %%%T sent444_tw.txt=英文口語=444句,會這444句英文片語，口語沒問題
+
+%G1A 不規則動詞三態
+  %%%C verbtensejtw.txt=不規則動詞三態初中版=245個字,不規則動詞三態初中版(現在、過去、過去分詞)(莊老師整理)
+  %%%D verbtensehtw.txt=不規則動詞三態高中版=503個字,不規則動詞三態高中版(現在、過去、過去分詞)(莊老師整理)
+  %%%F verbtensetw.txt=不規則動詞三態大全=730個字,不規則動詞三態完整版(現在、過去、過去分詞)(莊老師整理)
+
+%G1A 小學
+  %%%B primary3.txt=小學3年級=250個字,英文單字大賽列表
+  %%%D primary4.txt=小學4年級=500個字,英文單字大賽列表
+  %%%F primary5.txt=小學5年級=750個字,英文單字大賽列表
+  %%%G primary6.txt=小學6年級=1000個字,英文單字大賽列表
+%G1A 中學
+  %%%D juniorhigh1.txt=中學1年級=1350個字,英文單字大賽列表
+  %%%F juniorhigh2.txt=中學2年級=1695個字,英文單字大賽列表
+  %%%G juniorhigh3.txt=中學3年級=2099個字,英文單字大賽列表
+%G1A 高中
+  %%%F high2000_3000.txt=考大學2千~3千=1083個字,考大學2000~3000單字列表
+  %%%F high3000_4000.txt=考大學3千~4千=1107個字,考大學3000~4000單字列表
+  %%%F high4000_5000.txt=考大學4千~5千=1097個字,考大學4000~5000單字列表
+  %%%F high5000_6000.txt=考大學5千~6千=1097個字,考大學5000~6000單字列表
+  %%%F high6000_7000.txt=考大學6千~7千=1097個字,考大學6000~7000單字列表
+  %%%D hschfrequencytw.txt=大學考試高頻率單字=1498個字,大學考試高頻率單字(莊老師整理)
+  %%%H gaokao14cn.txt=高考常考單字=3360字,高考常考單字整理
+  %%%D hsconfuse_tw.txt=容易混淆單詞=154字,高中英檢容易混淆的單詞對照
+  %%%G seniorhigh1.txt=高中1年級=2992個字,英文單字大賽列表
+  %%%I seniorhigh2.txt=高中2年級=4491個字,英文單字大賽列表
+  %%%K seniorhigh3.txt=高中3年級=5991個字,英文單字大賽列表
+  %%%F latinverb54.txt=字根必背動詞=233字,高中必背拉丁字根英文動詞組
+  %%%P hsch_heritage100.txt=美國高中生的檢驗單詞=100字,這是美國Heritage詞典精心編輯的100個單詞對高中畢業生英文水平是一個很好的評判標準
+%G1A 高職
+  %%%G vocationalhigh1.txt=高職1年級=2592個字,英文單字大賽列表
+  %%%H vocationalhigh2.txt=高職2年級=3292個字,英文單字大賽列表
+  %%%I vocationalhigh3.txt=高職3年級=3991個字,英文單字大賽列表
+%G1A 大學學院
+  %%%K institute1.txt=技術學院1年級=4991個字,英文單字大賽列表
+  %%%L institute2.txt=技術學院2年級=5991個字,英文單字大賽列表
+  %%%M institute3.txt=技術學院3年級=6990個字,英文單字大賽列表
+  %%%N institute4.txt=技術學院4年級=7990個字,英文單字大賽列表
+  %%%M college1.txt=大學1年級=6990個字,英文單字大賽列表
+  %%%N college2.txt=大學2年級=7990個字,英文單字大賽列表
+  %%%O college3.txt=大學3年級=8989個字,英文單字大賽列表
+  %%%P college4.txt=大學4年級=9988個字,英文單字大賽列表
+  %%%M uwl_lvl1.txt=大學先修1=81字,教育部 University Word List level 1
+  %%%M uwl_lvl2.txt=大學先修2=86字,教育部 University Word List level 2
+  %%%M uwl_lvl3.txt=大學先修3=75字,教育部 University Word List level 3
+  %%%M uwl_lvl4.txt=大學先修4=78字,教育部 University Word List level 4
+  %%%M uwl_lvl5.txt=大學先修5=70字,教育部 University Word List level 5
+  %%%M uwl_lvl6.txt=大學先修6=77字,教育部 University Word List level 6
+  %%%M uwl_lvl7.txt=大學先修7=77字,教育部 University Word List level 7
+  %%%M uwl_lvl8.txt=大學先修8=62字,教育部 University Word List level 8
+  %%%M uwl_lvl9.txt=大學先修9=113字,教育部 University Word List level 9
+  %%%M uwl_lvl10.txt=大學先修10=89字,教育部 University Word List level 10
+%G1A TIME單挑字彙
+  %%%C time01_tw.txt=TIME簡易=374個字,TIME單挑字彙簡易單字(莊老師整理 2020)
+  %%%C time02_tw.txt=TIME普通=422個字,TIME單挑字彙普通單字(莊老師整理 2020)
+  %%%C time03_tw.txt=TIME進階=251個字,TIME單挑字彙進階單字(莊老師整理 2020)
+%G1A 英檢
+  %%%L gre66.txt=GRE極品單字=6669字,極品GRE紅寶書單字
+  %%%G toef_often_appear.txt=托福常考字=588字,TOEFL常考單字
+  %%%I toefl29.txt=托福單字精選=2912字,TOEFL單字精選
+  %%%H basictoelf.txt=TOEFL核心單字=2132字,TOEFL核心單字21天突破
+  %%%J ielts45.txt=雅思單字精選=4547字,雅思單字精選
+  %%%O ieltsyasi14tw.txt=雅思常考單字=7621字,最新雅思常考單字整理
+  %%%F toeic1.txt=多益單字基礎=390字,TOEIC基礎單字
+  %%%I toeicee.txt=多益單字整理=2570字,TOEIC英英單字整理
+  %%%H newtoeicl5_tw.txt=新多益高頻單字=1813字,新多益 TOEIC 考試高頻率單字、片語
+  %%%D bulats_level1_tw.txt=劍橋英語一=236字,劍橋國際英語教程第一級
+  %%%D bulats_bussword_tw.txt=劍橋博思職場英檢=205字,劍橋博思Bulats職場英檢單字簿
+  %%%F cambridg_ket_tw.txt=劍橋英檢KET=1519字,KET(Key English Test)劍橋初級英語認證，高中入學申請(同CEF-A2級) (網友分享)
+  %%%I cambridg_pet_tw.txt=劍橋英檢PET=2948字,PET(Preliminary English Test)劍橋中級英語認證，大學入學申請(同CEF-B1級) (網友分享)
+  %%%F cn4grade.txt=大陸四級必背單字=2662字,英語四級必背重點單字
+  %%%H cn6grade.txt=大陸六級高頻單字=2221字,英語六級高頻率單字
+%G1A GRE紅寶書字彙
+  %%%D greb01.txt=GRE01核心=117字,GRE紅寶書核心字彙之1 (莊朝鈞老師整理)
+  %%%D greb02.txt=GRE02核心=123字,GRE紅寶書核心字彙之2 (莊朝鈞老師整理)
+  %%%D greb03.txt=GRE03核心=146字,GRE紅寶書核心字彙之3 (莊朝鈞老師整理)
+  %%%D greb04.txt=GRE04核心=135字,GRE紅寶書核心字彙之4 (莊朝鈞老師整理)
+  %%%D greb05.txt=GRE05核心=144字,GRE紅寶書核心字彙之5 (莊朝鈞老師整理)
+  %%%D greb06.txt=GRE06核心=153字,GRE紅寶書核心字彙之6 (莊朝鈞老師整理)
+  %%%D greb07.txt=GRE07核心=143字,GRE紅寶書核心字彙之7 (莊朝鈞老師整理)
+  %%%D greb08.txt=GRE08核心=126字,GRE紅寶書核心字彙之8 (莊朝鈞老師整理)
+  %%%D greb09.txt=GRE09核心=145字,GRE紅寶書核心字彙之9 (莊朝鈞老師整理)
+  %%%D greb10.txt=GRE10核心=142字,GRE紅寶書核心字彙之10 (莊朝鈞老師整理)
+  %%%D greb11.txt=GRE11核心=142字,GRE紅寶書核心字彙之11 (莊朝鈞老師整理)
+  %%%D greb12.txt=GRE12核心=159字,GRE紅寶書核心字彙之12 (莊朝鈞老師整理)
+  %%%D greb13.txt=GRE13核心=146字,GRE紅寶書核心字彙之13 (莊朝鈞老師整理)
+  %%%D greb14.txt=GRE14核心=138字,GRE紅寶書核心字彙之14 (莊朝鈞老師整理)
+  %%%D greb15.txt=GRE15核心=156字,GRE紅寶書核心字彙之15 (莊朝鈞老師整理)
+  %%%D greb16.txt=GRE16核心=165字,GRE紅寶書核心字彙之16 (莊朝鈞老師整理)
+  %%%D greb17.txt=GRE17核心=176字,GRE紅寶書核心字彙之17 (莊朝鈞老師整理)
+  %%%D greb18.txt=GRE18核心=167字,GRE紅寶書核心字彙之18 (莊朝鈞老師整理)
+  %%%D greb19.txt=GRE19核心=145字,GRE紅寶書核心字彙之19 (莊朝鈞老師整理)
+  %%%D greb20.txt=GRE20核心=148字,GRE紅寶書核心字彙之20 (莊朝鈞老師整理)
+  %%%E greb21.txt=GRE21核心=134字,GRE紅寶書核心字彙之21 (莊朝鈞老師整理)
+  %%%E greb22.txt=GRE22核心=163字,GRE紅寶書核心字彙之22 (莊朝鈞老師整理)
+  %%%E greb23.txt=GRE23核心=163字,GRE紅寶書核心字彙之23 (莊朝鈞老師整理)
+  %%%E greb24.txt=GRE24核心=168字,GRE紅寶書核心字彙之24 (莊朝鈞老師整理)
+  %%%E greb25.txt=GRE25核心=165字,GRE紅寶書核心字彙之25 (莊朝鈞老師整理)
+  %%%E greb26.txt=GRE26核心=151字,GRE紅寶書核心字彙之26 (莊朝鈞老師整理)
+  %%%E greb27.txt=GRE27核心=157字,GRE紅寶書核心字彙之27 (莊朝鈞老師整理)
+  %%%E greb28.txt=GRE28核心=148字,GRE紅寶書核心字彙之28 (莊朝鈞老師整理)
+  %%%E greb29.txt=GRE29核心=149字,GRE紅寶書核心字彙之29 (莊朝鈞老師整理)
+  %%%E greb30.txt=GRE30核心=153字,GRE紅寶書核心字彙之30 (莊朝鈞老師整理)
+  %%%E greb31.txt=GRE31核心=161字,GRE紅寶書核心字彙之31 (莊朝鈞老師整理)
+  %%%E greb32.txt=GRE32核心=177字,GRE紅寶書核心字彙之32 (莊朝鈞老師整理)
+  %%%E greb33.txt=GRE33核心=179字,GRE紅寶書核心字彙之33 (莊朝鈞老師整理)
+  %%%E greb34.txt=GRE34核心=170字,GRE紅寶書核心字彙之34 (莊朝鈞老師整理)
+  %%%E greb35.txt=GRE35核心=143字,GRE紅寶書核心字彙之35 (莊朝鈞老師整理)
+  %%%E greb36.txt=GRE36核心=177字,GRE紅寶書核心字彙之36 (莊朝鈞老師整理)
+  %%%E greb37.txt=GRE37核心=169字,GRE紅寶書核心字彙之37 (莊朝鈞老師整理)
+  %%%E greb38.txt=GRE38核心=168字,GRE紅寶書核心字彙之38 (莊朝鈞老師整理)
+  %%%E greb39.txt=GRE39核心=83字,GRE紅寶書核心字彙之39 (莊朝鈞老師整理)
+  %%%F greb40.txt=GRE40最新=123字,GRE紅寶書最新字彙之1 (莊朝鈞老師整理)
+  %%%F greb41.txt=GRE41最新=123字,GRE紅寶書最新字彙之2 (莊朝鈞老師整理)
+  %%%F greb42.txt=GRE42最新=124字,GRE紅寶書最新字彙之3 (莊朝鈞老師整理)
+  %%%F greb43.txt=GRE43最新=137字,GRE紅寶書最新字彙之4 (莊朝鈞老師整理)
+  %%%F greb44.txt=GRE44最新=138字,GRE紅寶書最新字彙之5 (莊朝鈞老師整理)
+  %%%F greb45.txt=GRE45最新=128字,GRE紅寶書最新字彙之6 (莊朝鈞老師整理)
+  %%%F greb46.txt=GRE46最新=136字,GRE紅寶書最新字彙之7 (莊朝鈞老師整理)
+  %%%F greb47.txt=GRE47最新=138字,GRE紅寶書最新字彙之8 (莊朝鈞老師整理)
+  %%%F greb48.txt=GRE48最新=133字,GRE紅寶書最新字彙之9 (莊朝鈞老師整理)
+  %%%F greb49.txt=GRE49最新=139字,GRE紅寶書最新字彙之10 (莊朝鈞老師整理)
+  %%%G greb50.txt=GRE50預測=181字,GRE紅寶書預測字彙 (莊朝鈞老師整理)
+%G1A 托褔字彙
+  %%%C toefl_01.txt=托褔字彙01=50字,TOEFL字彙之1 (莊朝鈞老師整理)
+  %%%C toefl_02.txt=托褔字彙02=50字,TOEFL字彙之2 (莊朝鈞老師整理)
+  %%%C toefl_03.txt=托褔字彙03=50字,TOEFL字彙之3 (莊朝鈞老師整理)
+  %%%C toefl_04.txt=托褔字彙04=50字,TOEFL字彙之4 (莊朝鈞老師整理)
+  %%%C toefl_05.txt=托褔字彙05=50字,TOEFL字彙之5 (莊朝鈞老師整理)
+  %%%C toefl_06.txt=托褔字彙06=50字,TOEFL字彙之6 (莊朝鈞老師整理)
+  %%%C toefl_07.txt=托褔字彙07=50字,TOEFL字彙之7 (莊朝鈞老師整理)
+  %%%C toefl_08.txt=托褔字彙08=50字,TOEFL字彙之8 (莊朝鈞老師整理)
+  %%%C toefl_09.txt=托褔字彙09=50字,TOEFL字彙之9 (莊朝鈞老師整理)
+  %%%C toefl_10.txt=托褔字彙10=50字,TOEFL字彙之10 (莊朝鈞老師整理)
+  %%%C toefl_11.txt=托褔字彙11=50字,TOEFL字彙之11 (莊朝鈞老師整理)
+  %%%C toefl_12.txt=托褔字彙12=50字,TOEFL字彙之12 (莊朝鈞老師整理)
+  %%%C toefl_13.txt=托褔字彙13=50字,TOEFL字彙之13 (莊朝鈞老師整理)
+  %%%C toefl_14.txt=托褔字彙14=49字,TOEFL字彙之14 (莊朝鈞老師整理)
+  %%%C toefl_15.txt=托褔字彙15=50字,TOEFL字彙之15 (莊朝鈞老師整理)
+  %%%C toefl_16.txt=托褔字彙16=50字,TOEFL字彙之16 (莊朝鈞老師整理)
+  %%%C toefl_17.txt=托褔字彙17=50字,TOEFL字彙之17 (莊朝鈞老師整理)
+  %%%C toefl_18.txt=托褔字彙18=50字,TOEFL字彙之18 (莊朝鈞老師整理)
+  %%%C toefl_19.txt=托褔字彙19=50字,TOEFL字彙之19 (莊朝鈞老師整理)
+  %%%C toefl_20.txt=托褔字彙20=50字,TOEFL字彙之20 (莊朝鈞老師整理)
+  %%%D toefl_21.txt=托褔字彙21=49字,TOEFL字彙之21 (莊朝鈞老師整理)
+  %%%D toefl_22.txt=托褔字彙22=50字,TOEFL字彙之22 (莊朝鈞老師整理)
+  %%%D toefl_23.txt=托褔字彙23=50字,TOEFL字彙之23 (莊朝鈞老師整理)
+  %%%D toefl_24.txt=托褔字彙24=50字,TOEFL字彙之24 (莊朝鈞老師整理)
+  %%%D toefl_25.txt=托褔字彙25=50字,TOEFL字彙之25 (莊朝鈞老師整理)
+  %%%D toefl_26.txt=托褔字彙26=50字,TOEFL字彙之26 (莊朝鈞老師整理)
+  %%%D toefl_27.txt=托褔字彙27=50字,TOEFL字彙之27 (莊朝鈞老師整理)
+  %%%D toefl_28.txt=托褔字彙28=50字,TOEFL字彙之28 (莊朝鈞老師整理)
+  %%%D toefl_29.txt=托褔字彙29=50字,TOEFL字彙之29 (莊朝鈞老師整理)
+  %%%D toefl_30.txt=托褔字彙30=50字,TOEFL字彙之30 (莊朝鈞老師整理)
+  %%%F toefl_0130.txt=托褔字彙集=1496字,TOEFL字彙 (莊朝鈞老師整理)
