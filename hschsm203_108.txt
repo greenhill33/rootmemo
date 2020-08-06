@@ -34,6 +34,6 @@ mobile=adj.移動式的
 clinic=n.[C]診所
 recent=adj.最近的,近來的
 refer to ~ as something=將…稱作某物
-at least=至少,不少於；起碼
+at least=至少,不少於,起碼
 come up with something=想出,提出(計畫、答案等)
 work out (something)=解決問題
