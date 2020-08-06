@@ -37,5 +37,5 @@ equality=n.[U]平等
 grow up=成長
 in one's way=阻礙某人做…
 carry out something=執行某事,進行某事
-drop out (of something)=(從學校)輟學；退出(活動或團體)
+drop out (of something)=(從學校)輟學,退出(活動或團體)
 work toward something=努力完成某事
