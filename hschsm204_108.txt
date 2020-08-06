@@ -1,4 +1,4 @@
-regard=vt.t認為,視為;n.[U](fml.)尊敬,尊重
+regard=vt.認為,視為;n.[U](fml.)尊敬,尊重
 regarding=prep.(fml.)關於
 perfect=adj.十分合適的;adj.完美的
 perfection=n.[U]完美
