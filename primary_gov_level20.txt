@@ -1,4 +1,4 @@
-airplane=飛機(＝plane)
+airplane=飛機(口語省略成plane)
 bus=公車
 ship=船
 truck=卡車
