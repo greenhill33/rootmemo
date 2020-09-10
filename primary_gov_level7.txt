@@ -3,14 +3,14 @@ elementary school=小學
 junior high school=國中
 senior high school=高中
 group=團體
-math=數=mathematics
+math=數(mathematics的縮寫)
 bell=鐘聲
 pen=原子筆
 list=表,名單
 workbook=習作本
 sentence=句子
 language=語言
-PE=體育課(＝physical education)
+PE=體育課(physical education的縮寫)
 ask=詢問
 copy=複製
 know=知道
