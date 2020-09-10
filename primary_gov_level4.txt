@@ -36,6 +36,6 @@ light=燈光
 towel=毛巾
 couch=睡椅
 machine=機器
-television=電視(=TV)
+television=電視(縮寫TV)
 computer=電腦
 radio=收音機
