@@ -94,6 +94,8 @@
   %%%M uwl_lvl8.txt=大学先修8=62词,University Word List level 8
   %%%M uwl_lvl9.txt=大学先修9=113词,University Word List level 9
   %%%M uwl_lvl10.txt=大学先修10=89词,University Word List level 10
+%G1A 研究所
+  %%%B challenge3000_tw.txt=来单挑3000=2970个字,超高频教师甄选单字题
 %G1A 英检
   %%%F cn4grade.txt=四级必背词汇=2662词,英语四级必背重点词汇
   %%%H cn6grade.txt=六级高频词汇=2221词,英语六级高频词汇
