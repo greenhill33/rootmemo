@@ -108,6 +108,8 @@
   %%%M uwl_lvl8.txt=大學先修8=62字,教育部 University Word List level 8
   %%%M uwl_lvl9.txt=大學先修9=113字,教育部 University Word List level 9
   %%%M uwl_lvl10.txt=大學先修10=89字,教育部 University Word List level 10
+%G1A 研究所
+  %%%L challenge3000_tw.txt=來單挑3000=2970個字,超高頻教甄單字題
 %G1A TIME單挑字彙
   %%%C time01_tw.txt=TIME簡易=374個字,TIME單挑字彙簡易單字(莊老師整理 2020)
   %%%C time02_tw.txt=TIME普通=422個字,TIME單挑字彙普通單字(莊老師整理 2020)
